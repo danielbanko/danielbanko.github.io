@@ -1,26 +1,16 @@
 ## Welcome to my site
 
-I am a Senior at Swarthmore College majoring in Economics and Minoring in Psychology. Next year I will be working as a Research Assistant at the Consumer Financial Protection Bureau in Washington, DC. 
+I am a Senior at **Swarthmore College** majoring in Economics and Minoring in Psychology. Next year I will be working as a Research Assistant at the _Consumer Financial Protection Bureau_ in Washington, DC. Here is a link to my resume: [Link](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0)
 
 ![Image](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAVSAAAAJDFjNGFjYzg0LTYxNzctNGY3Mi1iZjRiLTYzZjM0ZmUzZWIxNw.jpg)
 
-### Markdown
+### Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am interested in the cross-section of economics and psychology known as Behavioral Economics.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
