@@ -2,6 +2,7 @@
 
 I am a Senior at Swarthmore College majoring in Economics and Minoring in Psychology. Next year I will be working as a Research Assistant at the Consumer Financial Protection Bureau in Washington, DC. 
 
+![Image](https://pbs.twimg.com/profile_images/479261716103315456/QUznDFUT.jpeg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
