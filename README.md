@@ -1,8 +1,6 @@
 ## Welcome to my site
 
-You can use the [editor on GitHub](https://github.com/danielbanko/danielbanko.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Senior at Swarthmore College majoring in Economics and Minoring in Psychology. Next year I will be working as a Research Assistant at the Consumer Financial Protection Bureau in Washington, DC. 
 
 ### Markdown
 
