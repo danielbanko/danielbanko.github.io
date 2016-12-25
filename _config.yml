@@ -1,3 +1,4 @@
 theme: jekyll-theme-tactile
 title: Daniel Banko
-
+gems:
+  - jekyll-seo-tag
