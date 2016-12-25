@@ -8,3 +8,4 @@ social:
     - https://www.facebook.com/danielJbanko
 gems:
   - jekyll-seo-tag
+  - jekyll-sitemap
