@@ -1,4 +1,10 @@
 theme: jekyll-theme-tactile
-title: Daniel Banko
+title: Daniel J. Banko-Ferran
+description: Dan Banko Personal Website 
+social:
+  name: Daniel Banko
+  links:
+    - https://www.linkedin.com/in/daniel-banko
+    - https://www.facebook.com/danielJbanko
 gems:
   - jekyll-seo-tag
