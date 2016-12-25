@@ -1,16 +1,14 @@
 ## Welcome to My Website!
 
-I am a **Senior at Swarthmore College** majoring in **Economics** and minoring in **Psychology**. Next year I will be working as a **Research Assistant** at the _Consumer Financial Protection Bureau_ in Washington, DC. Here is my [resume](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0)
+I am a **Senior** at **Swarthmore College** (graduating in May 2017) majoring in **Economics** and minoring in **Psychology**. Next year I will be working as a **Research Assistant** at the _Consumer Financial Protection Bureau_ in Washington, DC. Here is my [Resume].(https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0)
 
+Here is a picture of me:
 ![Image](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAVSAAAAJDFjNGFjYzg0LTYxNzctNGY3Mi1iZjRiLTYzZjM0ZmUzZWIxNw.jpg)
 
 ### Research Interests
 
 I am interested in the cross-section of economics and psychology (Behavioral Economics) and applied Microeconomics. Last summer I worked as a research assistant in the Applied Cooperation Team (ACT) at Yale University.
 
-
-
-Here is a picture of me:
 <p>
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
