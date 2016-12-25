@@ -5,6 +5,7 @@ Next year I will be working as a **Research Assistant** at the _Consumer Financi
 Click [here] (https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) for a link to my resume.
 
 And here is a picture of me:
+
 ![Image](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAVSAAAAJDFjNGFjYzg0LTYxNzctNGY3Mi1iZjRiLTYzZjM0ZmUzZWIxNw.jpg)
 
 ### Research Interests
