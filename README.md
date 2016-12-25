@@ -2,7 +2,7 @@
 
 Hello! I am a **Senior** at **Swarthmore College** (graduating in May 2017) majoring in **Economics** and minoring in **Psychology**. 
 Next year I will be working as a **Research Assistant** at the _Consumer Financial Protection Bureau_ in Washington, DC. 
-Click [here] (https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) for a link to my resume.
+Click [here](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) for a link to my resume.
 
 And here is a picture of me:
 
