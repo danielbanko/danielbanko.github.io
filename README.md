@@ -1,6 +1,6 @@
-## Welcome to My Website!
+## Welcome to my website!
 
-I am a **Senior** at **Swarthmore College** (graduating in May 2017) majoring in **Economics** and minoring in **Psychology**. 
+Hello! I am a **Senior** at **Swarthmore College** (graduating in May 2017) majoring in **Economics** and minoring in **Psychology**. 
 Next year I will be working as a **Research Assistant** at the _Consumer Financial Protection Bureau_ in Washington, DC. 
 Click [here] (https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) for a link to my resume.
 
@@ -10,7 +10,7 @@ And here is a picture of me:
 
 ### Research Interests
 
-I am interested in the cross-section of economics and psychology (Behavioral Economics) and applied Microeconomics. Last summer I worked as a research assistant in the Applied Cooperation Team (ACT) at Yale University.
+I am interested in the cross-section of economics and psychology (Behavioral Economics) and the field of Applied Microeconomics. Specifically, I am interested in consumer behavior, judgment and decision-making, and social preferences. Last summer I worked as a research assistant in the Applied Cooperation Team (ACT) at Yale University.
 
 ### Work Experience
 - Research Assistant (two years)
