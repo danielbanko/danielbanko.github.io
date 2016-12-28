@@ -16,10 +16,10 @@ I am interested in the cross-section of Economics and Psychology. Specifically, 
 
 ## Work Experience
 - Research Assistant at Yale University's Applied Cooperation Team (Summer 2016)
-- Research Assistant in Swarthmore's Department of Economics (two years)
-- Resident Assistant (two years)
-- Microeconomics Teaching Assistant (two years)
-- ITS Student Associate (three years)
+- Research Assistant in Swarthmore's Department of Economics (Summer 2015-Present)
+- Resident Assistant (Fall 2015-Present)
+- Microeconomics Teaching Assistant (Fall 2015-Present)
+- ITS Student Associate (Summer 2014-Present)
 
 ## Coursework
 ### Economics
