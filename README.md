@@ -30,7 +30,7 @@ I am interested in the cross-section of Economics and Psychology. Specifically, 
 - Intermediate Macroeconomics
 - Econometrics (STATA statistical software)
 
-### Behavioral Science
+### Psychology/Behavioral Science
 - Thinking, Judgment, and Decision-Making
 - Behavioral Science and Public Policy
 - Research Design and Analysis (SPSS statistical software)
