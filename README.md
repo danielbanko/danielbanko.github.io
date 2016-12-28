@@ -52,7 +52,12 @@ I am interested in the cross-section of Economics and Psychology. Specifically, 
 
 
 
-For more information, click [here](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) for a link to my resume and check out my Linkedin profile for more details. Thank you for visiting!
+For more information, click [here](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) for a link to my resume and check out my Linkedin profile. 
+
+## Contact Me
+Please email me at <a href="mailto:daniel.bankoferran@gmail.com?" target="_top">daniel.bankoferran@gmail.com</a> or send me a message on Linkedin.
+
+Thank you for visiting!
  
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <p>
