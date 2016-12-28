@@ -38,7 +38,7 @@ I am interested in the cross-section of Economics and Psychology. Specifically, 
 
 ### Math and Statistics
 - Real Analysis
-- Differential Equations (Matlab program)
+- Differential Equations (MatLab software)
 - Multivariable Calculus
 - Linear Algebra
 - Statistical Methods
