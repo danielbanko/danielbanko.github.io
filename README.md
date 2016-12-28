@@ -1,10 +1,10 @@
-# Welcome!
+# Hello!
 
 ![Image](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAVSAAAAJDFjNGFjYzg0LTYxNzctNGY3Mi1iZjRiLTYzZjM0ZmUzZWIxNw.jpg)
 
 
 
-Hello! I am a **Senior** at **Swarthmore College** (graduating in May 2017) majoring in **Economics** and minoring in **Psychology**. 
+I am a **Senior** at **Swarthmore College** (graduating in May 2017) majoring in **Economics** and minoring in **Psychology**. 
 Next year I will be working as a **Research Assistant** at the _**Consumer Financial Protection Bureau**_ in Washington, DC. 
 
 
