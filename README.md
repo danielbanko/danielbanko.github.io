@@ -52,14 +52,16 @@ I am interested in the cross-section of Economics and Psychology. Specifically, 
 
 
 
-For more information, click [here](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) for a link to my resume and check out my Linkedin profile. 
+For more information, click [here](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) for a link to my resume and check out my Linkedin profile.
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<p>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="daniel-banko-ferran-4584b951"><a class="LI-simple-link" href='https://www.linkedin.com/in/daniel-banko-ferran-4584b951?trk=profile-badge'>Daniel Banko-Ferran</a></div>
+</p>
 
 ## Contacting Me...
 Please email me at <a href="mailto:daniel.bankoferran@gmail.com?" target="_top">daniel.bankoferran@gmail.com</a> or send me a message on Linkedin.
 
 Thank you for visiting!
  
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<p>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="daniel-banko-ferran-4584b951"><a class="LI-simple-link" href='https://www.linkedin.com/in/daniel-banko-ferran-4584b951?trk=profile-badge'>Daniel Banko-Ferran</a></div>
-</p>
+
