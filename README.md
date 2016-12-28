@@ -52,11 +52,9 @@ I am interested in the cross-section of Economics and Psychology. Specifically, 
 
 
 
-
-Click [here](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) for a link to my resume.
-<p>
+For more information, click [here](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) for a link to my resume and check out my Linkedin profile for more details. Thank you for visiting!
+ 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-Check out my Linkedin profile for more details. Thank you for visiting!
+<p>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="daniel-banko-ferran-4584b951"><a class="LI-simple-link" href='https://www.linkedin.com/in/daniel-banko-ferran-4584b951?trk=profile-badge'>Daniel Banko-Ferran</a></div>
 </p>
