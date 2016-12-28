@@ -1,4 +1,6 @@
-<center> <font size = "36">Hello!</font>
+<center> 
+<font size = "36">Hello!</font>
+<br>
 <img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAVSAAAAJDFjNGFjYzg0LTYxNzctNGY3Mi1iZjRiLTYzZjM0ZmUzZWIxNw.jpg" alt = "profile" height="200" width="200">
 </center>
 
