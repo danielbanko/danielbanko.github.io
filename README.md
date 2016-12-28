@@ -1,6 +1,7 @@
 <div align="center">
 ## Welcome!
 ![Image](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAVSAAAAJDFjNGFjYzg0LTYxNzctNGY3Mi1iZjRiLTYzZjM0ZmUzZWIxNw.jpg)
+
 </div>
 
 Hello! I am a **Senior** at **Swarthmore College** (graduating in May 2017) majoring in **Economics** and minoring in **Psychology**. 
