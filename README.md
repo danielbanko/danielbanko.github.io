@@ -15,8 +15,8 @@ Next year I will be working as a **Research Assistant** at the _**Consumer Finan
 I am interested in the cross-section of Economics and Psychology. Specifically, I am interested in consumer behavior, judgment and decision-making, and social preferences.
 
 ## Work Experience
+- Research Assistant, Swarthmore College (Summer 2015-Present)
 - Research Assistant, Yale University's Applied Cooperation Team (Summer 2016)
-- Research Assistant, Swarthmore's Department of Economics (Summer 2015-Present)
 - Resident Assistant (Fall 2015-Present)
 - Microeconomics Teaching Assistant (Fall 2015-Present)
 - ITS Student Associate (Summer 2014-Present)
