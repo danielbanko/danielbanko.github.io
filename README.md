@@ -1,4 +1,4 @@
-<center> ## Welcome! </center>
+# Welcome!
 
 ![Image](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAVSAAAAJDFjNGFjYzg0LTYxNzctNGY3Mi1iZjRiLTYzZjM0ZmUzZWIxNw.jpg)
 
@@ -10,43 +10,41 @@ Next year I will be working as a **Research Assistant** at the _**Consumer Finan
 
 
 
-### Research Interests
+## Research Interests
 
 I am interested in the cross-section of Economics and Psychology. Specifically, I am interested in consumer behavior, judgment and decision-making, and social preferences.
 
-### Work Experience
+## Work Experience
 - Research Assistant at Yale University's Applied Cooperation Team (Summer 2016)
 - Research Assistant in Swarthmore's Department of Economics (two years)
 - Resident Assistant (two years)
 - Microeconomics Teaching Assistant (two years)
 - ITS Student Associate (three years)
 
-### Coursework
-## Economics
+## Coursework
+### Economics
 - Behavioral Economics
 - Advanced Microeconomics
 - Public Economics
 - Intermediate Macroeconomics
 - Econometrics (STATA statistical software)
 
-## Behavioral Science
+### Behavioral Science
 - Thinking, Judgment, and Decision-Making
 - Behavioral Science and Public Policy
 - Research Design and Analysis (SPSS statistical software)
 - Cognitive Science
 
-## Math and Statistics
+### Math and Statistics
 - Real Analysis
 - Differential Equations (Matlab program)
 - Multivariable Calculus
 - Linear Algebra
 - Statistical Methods
 
-## Computer Science
+### Computer Science
 - Data Structures and Algorithms (C++ language)
 - Computer Systems (C language)
-
-
 
 
 
