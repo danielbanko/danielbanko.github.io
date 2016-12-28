@@ -9,13 +9,44 @@ And here is a picture of me:
 
 ### Research Interests
 
-I am interested in the cross-section of economics and psychology (Behavioral Economics) and the field of Applied Microeconomics. Specifically, I am interested in consumer behavior, judgment and decision-making, and social preferences. Last summer I worked as a research assistant in the Applied Cooperation Team (ACT) at Yale University.
+I am interested in the cross-section of Economics and Psychology and Applied Microeconomics. Specifically, I am interested in consumer behavior, judgment and decision-making, and social preferences.
 
 ### Work Experience
-- Research Assistant (two years)
+- Research Assistant at Yale University's Applied Cooperation Team (Summer 2016)
+- Research Assistant in Swarthmore's Department of Economics (two years)
 - Resident Assistant (two years)
 - Microeconomics Teaching Assistant (two years)
 - ITS Student Associate (three years)
+
+### Coursework
+## Economics
+- Behavioral Economics
+- Advanced Microeconomics
+- Public Economics
+- Intermediate Macroeconomics
+- Econometrics (STATA statistical software)
+
+## Behavioral Science
+- Thinking, Judgment, and Decision-Making
+- Behavioral Science and Public Policy
+- Research Design and Analysis (SPSS statistical software)
+- Cognitive Science
+
+## Math and Statistics
+- Real Analysis
+- Differential Equations (Matlab program)
+- Multivariable Calculus
+- Linear Algebra
+- Statistical Methods
+
+## Computer Science
+- Data Structures and Algorithms (C++ language)
+- Computer Systems (C language)
+
+
+
+
+
 
 Click [here](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) for a link to my resume.
 <p>
