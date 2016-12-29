@@ -15,7 +15,7 @@ Next year I will be working as a **Research Assistant** at the _**Consumer Finan
 
 ## Research Interests
 
-I am interested in the cross-section of Economics and Psychology. Specifically, I am interested in consumer behavior, judgment and decision-making, and social preferences.
+I am interested in the cross-section of Economics and Psychology. Specifically, I am interested in consumer behavior, judgment and decision-making, and social preferences. My aspiration is to improve people's social and financial well-being.
 
 ## Work Experience
 - Research Assistant, Swarthmore College (Summer 2015-Present)
