@@ -24,7 +24,7 @@ I am interested in the cross-section of Economics and Psychology. Specifically, 
 - Microeconomics Teaching Assistant (Fall 2015-Present)
 - ITS Student Associate (Summer 2014-Present)
 
-## Coursework
+## Coursework (and programs/languages used)
 
 ### Economics
 - Behavioral Economics
