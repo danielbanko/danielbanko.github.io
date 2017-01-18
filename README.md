@@ -50,9 +50,9 @@ I am interested in the cross-section of Economics and Psychology. Specifically, 
 - Data Structures and Algorithms (C++ language)
 - Computer Systems (C language)
 
+## More About Me
 
-
-For more information, click [here](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) for a link to my resume and check out my Linkedin profile.
+For more information, click [here](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) for a link to my **resume** and check out my **Linkedin profile** (link below).
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <p>
