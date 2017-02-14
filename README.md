@@ -8,7 +8,7 @@
 # Hello!
 <br>
 I am a **Senior** at **Swarthmore College** (graduating in May 2017) majoring in **Economics** and minoring in **Psychology**. 
-Next year I will be working as a **Research Assistant** at the _**Consumer Financial Protection Bureau**_ in Washington, DC. 
+Next year I will be working as a **Research Assistant** at the **Consumer Financial Protection Bureau** in Washington, DC. 
 
 
 
