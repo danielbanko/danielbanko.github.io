@@ -22,13 +22,13 @@ I am interested in the cross-section of Economics and Psychology. Specifically, 
 - Research Assistant, Yale University's Applied Cooperation Team (Summer 2016)
 - Resident Assistant (Fall 2015-Present)
 - Microeconomics Teaching Assistant (Fall 2015-Present)
-- ITS Student Associate (Summer 2014-Present)
+- ITS Student Associate and Team Leader (Summer 2014-Present)
 
 ## Coursework (and programs/languages used)
 
 ### Economics
 - Behavioral Economics
-- Advanced Microeconomics
+- Advanced Microeconomics (LaTeX)
 - Public Economics
 - Intermediate Macroeconomics
 - Econometrics (STATA statistical software)
