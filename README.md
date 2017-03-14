@@ -5,7 +5,6 @@
 </center>
 <br>
 
-# Hello!
 <br>
 I am a **Senior** at **Swarthmore College** (graduating in May 2017) majoring in **Economics** and minoring in **Psychology**. 
 Next year I will be working as a **Research Assistant** at the **Consumer Financial Protection Bureau** in Washington, DC. 
@@ -52,7 +51,7 @@ I am interested in the cross-section of Economics and Psychology. Specifically, 
 
 ## More About Me
 
-Read my [resume](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and check out my **Linkedin profile** below.
+Here is a link to my [resume](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and visit my **Linkedin profile** below.
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <p>
