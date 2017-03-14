@@ -15,7 +15,7 @@ Next year I will be working as a **Research Assistant** at the **Consumer Financ
 
 ## Research Interests
 
-I am interested in the cross-section of Economics and Psychology. Specifically, I am interested in consumer behavior, judgment and decision-making, and social preferences. My aspiration is to improve people's social and financial well-being.
+I am interested in the cross-section of Economics and Psychology. Specifically, I am interested in consumer behavior, judgment and decision-making, and social preferences. My aspiration is to become an Economics Professor.
 
 ## Work Experience
 - Research Assistant, Swarthmore College (Summer 2015-Present)
@@ -24,7 +24,7 @@ I am interested in the cross-section of Economics and Psychology. Specifically, 
 - Microeconomics Teaching Assistant (Fall 2015-Present)
 - ITS Student Associate and Team Leader (Summer 2014-Present)
 
-## Coursework (and programs/languages used)
+## Coursework (programs/languages used)
 
 ### Economics
 - Behavioral Economics
@@ -52,7 +52,7 @@ I am interested in the cross-section of Economics and Psychology. Specifically, 
 
 ## More About Me
 
-For more information, click [here](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) for a link to my **resume** and check out my **Linkedin profile** (link below).
+Read my [resume](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and check out my **Linkedin profile** below.
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <p>
@@ -61,7 +61,5 @@ For more information, click [here](https://www.dropbox.com/s/rok02wsilwfyr9w/dba
 
 ## Contacting Me...
 Please email me at <a href="mailto:daniel.bankoferran@gmail.com?" target="_top">daniel.bankoferran@gmail.com</a> or send me a message on Linkedin.
-
-Thank you for visiting!
  
 
