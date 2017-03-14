@@ -14,7 +14,7 @@ Next year I will be working as a **Research Assistant** at the **Consumer Financ
 
 ## Research Interests
 
-I am interested in the cross-section of Economics and Psychology. Specifically, I am interested in consumer behavior, judgment and decision-making, and social preferences. My aspiration is to become an professor after obtaining a PhD in economics.
+I am interested in the cross-section of Economics and Psychology. Specifically, I am interested in consumer behavior, judgment and decision-making, and social preferences. I hope to become a professor after obtaining a PhD in economics.
 
 ## Work Experience
 - Research Assistant, Swarthmore College (Summer 2015-Present)
@@ -51,7 +51,7 @@ I am interested in the cross-section of Economics and Psychology. Specifically, 
 
 ## More About Me
 
-Here is a link to my [resume](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and visit my **Linkedin profile** below.
+Here is a link to my [resume](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and you can visit my **Linkedin profile** below.
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <p>
