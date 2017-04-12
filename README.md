@@ -30,24 +30,24 @@ I am interested in the cross-section of Economics and Psychology. Specifically, 
 - Advanced Microeconomics (LaTeX)
 - Public Economics
 - Intermediate Macroeconomics
-- Econometrics (STATA statistical software)
+- Econometrics (STATA)
 
 ### Psychology/Behavioral Science
 - Thinking, Judgment, and Decision-Making
 - Behavioral Science and Public Policy
-- Research Design and Analysis (SPSS statistical software)
+- Research Design and Analysis (SPSS)
 - Cognitive Science
 
 ### Math and Statistics
 - Real Analysis
-- Differential Equations (MatLab software)
+- Differential Equations (MatLab)
 - Multivariable Calculus
 - Linear Algebra
 - Statistical Methods
 
 ### Computer Science
-- Data Structures and Algorithms (C++ language)
-- Computer Systems (C language)
+- Data Structures and Algorithms (C++)
+- Computer Systems (C)
 
 ## More About Me
 
