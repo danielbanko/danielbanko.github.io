@@ -1,27 +1,18 @@
-
-<center>
+#Welcome to my site
 <br>
-<img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAVSAAAAJDFjNGFjYzg0LTYxNzctNGY3Mi1iZjRiLTYzZjM0ZmUzZWIxNw.jpg" alt = "profile" height="250" width="250">
-</center>
-<br>
-
-<br>
-I am a **Senior** at **Swarthmore College** (graduating in May 2017) majoring in **Economics** and minoring in **Psychology**. 
-Next year I will be working as a **Research Assistant** at the **Consumer Financial Protection Bureau** in Washington, DC. 
-
-
-
+I graduated from **Swarthmore College** (in May 2017) with an Honors major in **Economics** and minor in **Psychology**.
+I am currently  working as a **Research Assistant** at the **Consumer Financial Protection Bureau** in Washington, DC as part of a two-year fellowship program in the Office of Research.
 
 ## Research Interests
 
-I am interested in the cross-section of Economics and Psychology. Specifically, I am interested in consumer behavior, judgment and decision-making, and social preferences. I hope to become a professor after obtaining a PhD in economics.
+I am interested in the cross-section of Economics and Psychology focusing on consumer behavior, judgment and decision-making, and social preferences. I hope to earn a PhD in economics after my employment term expires at the CFPB.
 
 ## Work Experience
-- Research Assistant, Swarthmore College (Summer 2015-Present)
+- Research Assistant, Swarthmore College (Summer 2015-Spring 2017)
 - Research Assistant, Yale University's Applied Cooperation Team (Summer 2016)
-- Resident Assistant (Fall 2015-Present)
-- Microeconomics Teaching Assistant (Fall 2015-Present)
-- ITS Student Associate and Team Leader (Summer 2014-Present)
+- Resident Assistant (Fall 2015-Spring 2017)
+- Microeconomics Teaching Assistant (Fall 2015-Winter 2016)
+- ITS Student Associate and Team Leader (Summer 2014-Spring 2017)
 
 ## Coursework (programs/languages used)
 
@@ -49,9 +40,18 @@ I am interested in the cross-section of Economics and Psychology. Specifically, 
 - Data Structures and Algorithms (C++)
 - Computer Systems (C)
 
+## Skills Acquired and Utilized at the Bureau
+- HTML, CSS, Javascript
+- STATA
+- R
+- Python
+- LaTeX
+- Running experiments
+- Large dataset analysis/cleaning
+
 ## More About Me
 
-Here is a link to my [resume](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and you can visit my **Linkedin profile** below.
+Here is a link to my **[resume](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0)** and you can visit my **Linkedin profile** below.
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <p>
@@ -60,5 +60,3 @@ Here is a link to my [resume](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoRe
 
 ## Contacting Me...
 Please email me at <a href="mailto:daniel.bankoferran@gmail.com?" target="_top">daniel.bankoferran@gmail.com</a> or send me a message on Linkedin.
- 
-
