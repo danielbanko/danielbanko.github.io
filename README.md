@@ -40,20 +40,21 @@ I am interested in the cross-section of Economics and Psychology focusing on con
 - Data Structures and Algorithms (C++)
 - Computer Systems (C)
 
-## Skills at the Bureau
-- HTML, CSS, Javascript
+## Skills Developed at the Bureau
 - Stata
+- Web development (HTML, CSS, Javascript)
+- Markdown
+- Git
 - R
 - MatLab
 - LaTeX
 - Python
-- LaTeX
-- Creating and implementing lab experiments, online and in-person
+- Implementing online/in-person experiments
 - Large dataset analysis/cleaning
 
 ## More About Me
 
-Here is a link to my **[resume](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0)** and you can visit my **Linkedin profile** below.
+I volunteer as a math tutor at a local youth center and sing bass in the National Cathedral. Here is a link to my **[resume](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0)** and you can visit my **Linkedin profile** below.
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <p>
