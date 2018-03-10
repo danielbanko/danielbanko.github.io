@@ -1,4 +1,4 @@
-#Welcome to my site
+# Welcome to my site
 <br>
 I graduated from **Swarthmore College** (in May 2017) with an Honors major in **Economics** and minor in **Psychology**.
 I am currently  working as a **Research Assistant** at the **Consumer Financial Protection Bureau** in Washington, DC as part of a two-year fellowship program in the Office of Research.
