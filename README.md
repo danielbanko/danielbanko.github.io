@@ -10,9 +10,9 @@ I am interested in the cross-section of Economics and Psychology focusing on con
 ## Work Experience
 - Research Assistant, Swarthmore College (Summer 2015-Spring 2017)
 - Research Assistant, Yale University's Applied Cooperation Team (Summer 2016)
-- Resident Assistant (Fall 2015-Spring 2017)
-- Microeconomics Teaching Assistant (Fall 2015-Winter 2016)
-- ITS Student Associate and Team Leader (Summer 2014-Spring 2017)
+- Resident Assistant, Swarthmore College (Fall 2015-Spring 2017)
+- Microeconomics Teaching Assistant, Swarthmore College (Fall 2015-Winter 2016)
+- ITS Student Associate and Team Leader, Swarthmore College (Summer 2014-Spring 2017)
 
 ## Coursework (programs/languages used)
 
@@ -21,7 +21,7 @@ I am interested in the cross-section of Economics and Psychology focusing on con
 - Advanced Microeconomics (LaTeX)
 - Public Economics
 - Intermediate Macroeconomics
-- Econometrics (STATA)
+- Econometrics (Stata)
 
 ### Psychology/Behavioral Science
 - Thinking, Judgment, and Decision-Making
@@ -40,13 +40,15 @@ I am interested in the cross-section of Economics and Psychology focusing on con
 - Data Structures and Algorithms (C++)
 - Computer Systems (C)
 
-## Skills Acquired and Utilized at the Bureau
+## Skills at the Bureau
 - HTML, CSS, Javascript
-- STATA
+- Stata
 - R
+- MatLab
+- LaTeX
 - Python
 - LaTeX
-- Running experiments
+- Creating and implementing lab experiments, online and in-person
 - Large dataset analysis/cleaning
 
 ## More About Me
