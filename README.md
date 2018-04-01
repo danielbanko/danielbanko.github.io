@@ -64,4 +64,4 @@ In my free time, I enjoy volunteering as a math tutor at a local youth center an
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="daniel-banko-ferran-4584b951"><a class="LI-simple-link" href='https://www.linkedin.com/in/daniel-banko-ferran-4584b951?trk=profile-badge'>Daniel Banko-Ferran</a></div>
 
 ## Contacting Me...
-For any inquiries, please email <a href="mailto:daniel.bankoferran@gmail.com?" target="_top">daniel.bankoferran@gmail.com</a> or send a private message on Linkedin. Thank you.
+For any inquiries, please email <a href="mailto:daniel.bankoferran@gmail.com?" target="_top">daniel.bankoferran@gmail.com</a> or send a private message on [Linkedin](https://www.linkedin.com/in/daniel-banko/). Thank you.
