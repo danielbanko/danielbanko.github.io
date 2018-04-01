@@ -2,7 +2,7 @@
 
 ## Welcome to my personal website
 
-I am a recent graduate of **Swarthmore College** with an [Honors](https://www.swarthmore.edu/honors-program) degree in **Economics** and Honors minor in **Psychology**. I am currently  working as a **Research Assistant** at the **Consumer Financial Protection Bureau** in Washington, DC as part of a two-year fellowship program in the [Office of Research](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/).
+I am a recent graduate of **Swarthmore College** with an [Honors degree](https://www.swarthmore.edu/honors-program) in **Economics** and minor in **Psychology**. I am currently  working as a **Research Assistant** at the **Consumer Financial Protection Bureau** in Washington, DC as part of a two-year fellowship program in the [Office of Research](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/).
 
 ### Research Interests
 
