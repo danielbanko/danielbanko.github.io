@@ -6,7 +6,7 @@ I am a recent graduate of **Swarthmore College** with an [Honors degree](https:/
 
 ### Research Interests
 
-I am interested in the cross-section of Economics and Psychology focusing on consumer behavior, judgment, and decision-making. I hope to earn a PhD in economics after my employment ends at the CFPB.
+I am interested in the cross-section of Economics and Psychology focusing on consumer behavior, judgment, and decision-making. I plan to attend graduate school to earn a PhD in economics after my employment ends at the CFPB.
 
 ### Work Experience
 - Research Assistant, CFPB (Summer 2017-Present)
