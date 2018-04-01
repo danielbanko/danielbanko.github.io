@@ -42,7 +42,7 @@ I am interested in the cross-section of Economics and Psychology focusing on con
 - Data Structures and Algorithms (C++)
 - Computer Systems (C)
 
-## Skills Developed at the Bureau
+## Skills Acquired and Further Developed at the Bureau
 - Stata
 - Web development (HTML, CSS, Javascript)
 - Markdown
@@ -56,7 +56,7 @@ I am interested in the cross-section of Economics and Psychology focusing on con
 
 ## More About Me
 
-I volunteer as a math tutor at a local youth center and sing bass in the chorus of the National Cathedral. Here is a link to my **[resume](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0)** and you can visit my **Linkedin profile** below. I also have a **[personal blog](https://danielbanko.wordpress.com/)**. If you want to keep up with my latest coding projects, follow my [GitHub page](https://github.com/danielbanko). You can also find me on [Twitter](https://twitter.com/Banjodan2) and [Quora](https://www.quora.com/profile/Daniel-Banko).
+I volunteer as a math tutor at a local youth center and sing bass in the chorus of the [National Cathedral](http://www.cathedralchoralsociety.org/cathedral-choral-society). Here is a link to my **[CV](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0)** and you can visit my [Linkedin profile](https://www.linkedin.com/in/daniel-banko/). If you want to keep up with my latest coding projects, follow my [GitHub page](https://github.com/danielbanko). I also have a **[personal blog](https://danielbanko.wordpress.com/)**. You can find me on [Twitter](https://twitter.com/Banjodan2) and [Quora](https://www.quora.com/profile/Daniel-Banko).
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <p>
@@ -64,4 +64,4 @@ I volunteer as a math tutor at a local youth center and sing bass in the chorus 
 </p>
 
 ## Contacting Me...
-Please email me at <a href="mailto:daniel.bankoferran@gmail.com?" target="_top">daniel.bankoferran@gmail.com</a> or send me a private message on Linkedin.
+For any inquiries, please email me at <a href="mailto:daniel.bankoferran@gmail.com?" target="_top">daniel.bankoferran@gmail.com</a> or send me a private message on Linkedin.
