@@ -57,12 +57,11 @@ I am interested in the cross-section of Economics and Psychology focusing on con
 
 ### More About Me
 
-In my free time, I enjoy volunteering as a math tutor at a local youth center and singing bass in the [chorus]((http://www.cathedralchoralsociety.org/cathedral-choral-society)) of the [National Cathedral](https://cathedral.org/). Feel free to download my [CV](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and visit my [Linkedin profile](https://www.linkedin.com/in/daniel-banko/). You can follow my [GitHub page](https://github.com/danielbanko) if you want to keep up with my latest coding projects. I also have a [personal blog](https://danielbanko.wordpress.com/) and a [Twitter profile](https://twitter.com/Banjodan2).
+In my free time, I enjoy volunteering as a math tutor at a local youth center and singing bass in the [chorus]((http://www.cathedralchoralsociety.org/cathedral-choral-society)) of the [National Cathedral](https://cathedral.org/). Feel free to download my [CV](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and visit my [Linkedin profile](https://www.linkedin.com/in/daniel-banko/). Follow my [GitHub page](https://github.com/danielbanko) if you want to keep up with my latest coding projects. I also have a **[personal blog](https://danielbanko.wordpress.com/)** and a [Twitter profile](https://twitter.com/Banjodan2).
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<p>
+
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="daniel-banko-ferran-4584b951"><a class="LI-simple-link" href='https://www.linkedin.com/in/daniel-banko-ferran-4584b951?trk=profile-badge'>Daniel Banko-Ferran</a></div>
-</p>
 
 ## Contacting Me...
 For any inquiries, please email <a href="mailto:daniel.bankoferran@gmail.com?" target="_top">daniel.bankoferran@gmail.com</a> or send a private message on Linkedin. Thank you.
