@@ -2,21 +2,21 @@
 
 ## Welcome to my personal website
 
-I graduated from **Swarthmore College** in May 2017 with an Honors major in **Economics** and Honors minor in **Psychology**.
+I am a recent graduate of **Swarthmore College** with an Honors degree in **Economics** and Honors minor in **Psychology**.
 I am currently  working as a **Research Assistant** at the **Consumer Financial Protection Bureau** in Washington, DC as part of a two-year fellowship program in the Office of Research.
 
 ### Research Interests
 
-I am interested in the cross-section of Economics and Psychology focusing on consumer behavior, judgment, and decision-making. I hope to earn a PhD in economics after my employment expires at the CFPB.
+I am interested in the cross-section of Economics and Psychology focusing on consumer behavior, judgment, and decision-making. I hope to earn a PhD in economics after my employment ends at the CFPB.
 
 ### Work Experience
 - Research Assistant, Swarthmore College (Summer 2015-Spring 2017)
-- Research Assistant, Yale University's Applied Cooperation Team (Summer 2016)
+- Research Assistant, Yale University's [Applied Cooperation Team](https://act.yale.edu/people) (Summer 2016)
 - Resident Assistant, Swarthmore College (Fall 2015-Spring 2017)
 - Microeconomics Teaching Assistant, Swarthmore College (Fall 2015-Winter 2016)
 - ITS Student Associate and Team Leader, Swarthmore College (Summer 2014-Spring 2017)
 
-### Coursework (programs/languages used)
+### Coursework (and programs/languages used)
 
 #### Economics
 - Behavioral Economics
