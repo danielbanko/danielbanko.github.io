@@ -3,13 +3,14 @@
 ## Welcome to my personal website
 
 I am a recent graduate of **Swarthmore College** with an Honors degree in **Economics** and Honors minor in **Psychology**.
-I am currently  working as a **Research Assistant** at the **Consumer Financial Protection Bureau** in Washington, DC as part of a two-year fellowship program in the Office of Research.
+I am currently  working as a **Research Assistant** at the **Consumer Financial Protection Bureau** in Washington, DC as part of a two-year fellowship program in the [Office of Research](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/).
 
 ### Research Interests
 
 I am interested in the cross-section of Economics and Psychology focusing on consumer behavior, judgment, and decision-making. I hope to earn a PhD in economics after my employment ends at the CFPB.
 
 ### Work Experience
+- Research Assistant, CFPB (Summer 2017-Present)
 - Research Assistant, Swarthmore College (Summer 2015-Spring 2017)
 - Research Assistant, Yale University's [Applied Cooperation Team](https://act.yale.edu/people) (Summer 2016)
 - Resident Assistant, Swarthmore College (Fall 2015-Spring 2017)
