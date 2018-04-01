@@ -57,7 +57,7 @@ I am interested in the cross-section of Economics and Psychology focusing on con
 
 ### More About Me
 
-Here is a link to my [CV](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and my [Linkedin profile](https://www.linkedin.com/in/daniel-banko/). In my free time, I volunteer as a math tutor at a local youth center and sing bass in the [chorus]((http://www.cathedralchoralsociety.org/cathedral-choral-society)) of the [National Cathedral](https://cathedral.org/). If you want to keep up with my latest coding projects, feel free to follow my [GitHub page](https://github.com/danielbanko). I also have a **[personal blog](https://danielbanko.wordpress.com/)** and a profile on [Twitter](https://twitter.com/Banjodan2).
+In my free time, I enjoy volunteering as a math tutor at a local youth center and singing bass in the [chorus]((http://www.cathedralchoralsociety.org/cathedral-choral-society)) of the [National Cathedral](https://cathedral.org/). You can check out my [CV](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and my [Linkedin profile](https://www.linkedin.com/in/daniel-banko/).  If you want to keep up with my latest coding projects, feel free to follow my [GitHub page](https://github.com/danielbanko). I also have a [personal blog](https://danielbanko.wordpress.com/) and a [Twitter profile](https://twitter.com/Banjodan2).
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <p>
