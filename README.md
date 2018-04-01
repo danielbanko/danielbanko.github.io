@@ -2,12 +2,12 @@
 
 # Welcome to my site
 <br>
-I graduated from **Swarthmore College** (in May 2017) with an Honors major in **Economics** and minor in **Psychology**.
+I graduated from **Swarthmore College** (in May 2017) with an Honors major in **Economics** and Honors minor in **Psychology**.
 I am currently  working as a **Research Assistant** at the **Consumer Financial Protection Bureau** in Washington, DC as part of a two-year fellowship program in the Office of Research.
 
 ## Research Interests
 
-I am interested in the cross-section of Economics and Psychology focusing on consumer behavior, judgment and decision-making, and social preferences. I hope to earn a PhD in economics after my employment term expires at the CFPB.
+I am interested in the cross-section of Economics and Psychology focusing on consumer behavior, judgment, and decision-making. I hope to earn a PhD in economics after my employment expires at the CFPB.
 
 ## Work Experience
 - Research Assistant, Swarthmore College (Summer 2015-Spring 2017)
@@ -51,12 +51,12 @@ I am interested in the cross-section of Economics and Psychology focusing on con
 - MatLab
 - LaTeX
 - Python
-- Implementing online/in-person experiments
+- Implementing lab and field experiments
 - Large dataset analysis/cleaning
 
 ## More About Me
 
-I volunteer as a math tutor at a local youth center and sing bass in the National Cathedral. Here is a link to my **[resume](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0)** and you can visit my **Linkedin profile** below. I also have a **[personal blog](https://danielbanko.wordpress.com/)**.
+I volunteer as a math tutor at a local youth center and sing bass in the National Cathedral. Here is a link to my **[resume](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0)** and you can visit my **Linkedin profile** below. I also have a **[personal blog](https://danielbanko.wordpress.com/)**. If you want to keep up with my latest personal projects, follow my [github page](https://github.com/danielbanko).
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <p>
