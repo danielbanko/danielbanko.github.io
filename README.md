@@ -1,48 +1,48 @@
 
 
-# Welcome to my site
-<br>
-I graduated from **Swarthmore College** (in May 2017) with an Honors major in **Economics** and Honors minor in **Psychology**.
+## Welcome to my personal website
+
+I graduated from **Swarthmore College** in May 2017 with an Honors major in **Economics** and Honors minor in **Psychology**.
 I am currently  working as a **Research Assistant** at the **Consumer Financial Protection Bureau** in Washington, DC as part of a two-year fellowship program in the Office of Research.
 
-## Research Interests
+### Research Interests
 
 I am interested in the cross-section of Economics and Psychology focusing on consumer behavior, judgment, and decision-making. I hope to earn a PhD in economics after my employment expires at the CFPB.
 
-## Work Experience
+### Work Experience
 - Research Assistant, Swarthmore College (Summer 2015-Spring 2017)
 - Research Assistant, Yale University's Applied Cooperation Team (Summer 2016)
 - Resident Assistant, Swarthmore College (Fall 2015-Spring 2017)
 - Microeconomics Teaching Assistant, Swarthmore College (Fall 2015-Winter 2016)
 - ITS Student Associate and Team Leader, Swarthmore College (Summer 2014-Spring 2017)
 
-## Coursework (programs/languages used)
+### Coursework (programs/languages used)
 
-### Economics
+#### Economics
 - Behavioral Economics
 - Advanced Microeconomics (LaTeX)
 - Public Economics
 - Intermediate Macroeconomics
 - Econometrics (Stata)
 
-### Psychology/Behavioral Science
+#### Psychology/Behavioral Science
 - Thinking, Judgment, and Decision-Making
 - Behavioral Science and Public Policy
 - Research Design and Analysis (SPSS)
 - Cognitive Science
 
-### Math and Statistics
+#### Math and Statistics
 - Real Analysis
 - Differential Equations (MatLab)
 - Multivariable Calculus
 - Linear Algebra
 - Statistical Methods
 
-### Computer Science
+#### Computer Science
 - Data Structures and Algorithms (C++)
 - Computer Systems (C)
 
-## Skills Acquired or Further Developed at the Bureau
+### Skills Acquired or Further Developed at the Bureau
 - Stata
 - Web development (HTML, CSS, Javascript)
 - Markdown
@@ -54,7 +54,7 @@ I am interested in the cross-section of Economics and Psychology focusing on con
 - Implementing lab and field experiments
 - Large dataset analysis/cleaning
 
-## More About Me
+### More About Me
 
 I volunteer as a math tutor at a local youth center and sing bass in the [chorus]((http://www.cathedralchoralsociety.org/cathedral-choral-society)) of the National Cathedral. Here is a link to my [CV](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and you can also visit my [Linkedin profile](https://www.linkedin.com/in/daniel-banko/). If you want to keep up with my latest coding projects, follow my [GitHub page](https://github.com/danielbanko). I also have a **[personal blog](https://danielbanko.wordpress.com/)** and can be found on [Twitter](https://twitter.com/Banjodan2) and [Quora](https://www.quora.com/profile/Daniel-Banko).
 
