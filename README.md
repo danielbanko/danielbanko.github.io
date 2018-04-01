@@ -2,8 +2,7 @@
 
 ## Welcome to my personal website
 
-I am a recent graduate of **Swarthmore College** with an Honors degree in **Economics** and Honors minor in **Psychology**.
-I am currently  working as a **Research Assistant** at the **Consumer Financial Protection Bureau** in Washington, DC as part of a two-year fellowship program in the [Office of Research](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/).
+I am a recent graduate of **Swarthmore College** with an [Honors](https://www.swarthmore.edu/honors-program) degree in **Economics** and Honors minor in **Psychology**. I am currently  working as a **Research Assistant** at the **Consumer Financial Protection Bureau** in Washington, DC as part of a two-year fellowship program in the [Office of Research](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/).
 
 ### Research Interests
 
@@ -16,6 +15,18 @@ I am interested in the cross-section of Economics and Psychology focusing on con
 - Resident Assistant, Swarthmore College (Fall 2015-Spring 2017)
 - Microeconomics Teaching Assistant, Swarthmore College (Fall 2015-Winter 2016)
 - ITS Student Associate and Team Leader, Swarthmore College (Summer 2014-Spring 2017)
+
+### Skills Acquired or Developed at the Bureau
+- Stata
+- Web development (HTML, CSS, Javascript)
+- Markdown
+- Git
+- R
+- MatLab
+- LaTeX
+- Python
+- Implementing lab and field experiments
+- Large dataset analysis/cleaning
 
 ### Coursework (and programs/languages used)
 
@@ -43,21 +54,10 @@ I am interested in the cross-section of Economics and Psychology focusing on con
 - Data Structures and Algorithms (C++)
 - Computer Systems (C)
 
-### Skills Acquired or Further Developed at the Bureau
-- Stata
-- Web development (HTML, CSS, Javascript)
-- Markdown
-- Git
-- R
-- MatLab
-- LaTeX
-- Python
-- Implementing lab and field experiments
-- Large dataset analysis/cleaning
 
 ### More About Me
 
-I volunteer as a math tutor at a local youth center and sing bass in the [chorus]((http://www.cathedralchoralsociety.org/cathedral-choral-society)) of the National Cathedral. Here is a link to my [CV](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and you can also visit my [Linkedin profile](https://www.linkedin.com/in/daniel-banko/). If you want to keep up with my latest coding projects, follow my [GitHub page](https://github.com/danielbanko). I also have a **[personal blog](https://danielbanko.wordpress.com/)** and can be found on [Twitter](https://twitter.com/Banjodan2) and [Quora](https://www.quora.com/profile/Daniel-Banko).
+Here is a link to my [CV](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and my [Linkedin profile](https://www.linkedin.com/in/daniel-banko/). In my free time, I volunteer as a math tutor at a local youth center and sing bass in the [chorus]((http://www.cathedralchoralsociety.org/cathedral-choral-society)) of the [National Cathedral](https://cathedral.org/). If you want to keep up with my latest coding projects, feel free to follow my [GitHub page](https://github.com/danielbanko). I also have a **[personal blog](https://danielbanko.wordpress.com/)** and a profile on [Twitter](https://twitter.com/Banjodan2).
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <p>
