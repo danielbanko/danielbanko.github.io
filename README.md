@@ -3,7 +3,7 @@
 </p>
 
 ## Welcome
-I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College with an [Honors degree](https://www.swarthmore.edu/honors-program) in Economics and Psychology in May 2017.  I am interested in behavioral finance and consumer well-being  research and plan to attend graduate school to earn a PhD in economics.
+I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College with an [Honors degree](https://www.swarthmore.edu/honors-program) in Economics and Psychology in May 2017. I am interested in behavioral finance and consumer well-being research and plan to attend graduate school to earn a PhD in economics.
 
 ### Work Experience
 ##### Research Assistant at CFPB
@@ -12,7 +12,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ##### Resident Adviser at Swarthmore College
 ##### Microeconomics Teacher's Assistant at Swarthmore College
 ##### ITS Team Leader at Swarthmore College
-
+<br>
 
 ### Skills
 ##### Stata
@@ -33,7 +33,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ##### Public Economics Honors Seminar
 ##### Econometrics
 ##### Intermediate Macroeconomics
-
+<br>
 
 ### Psychology and Behavioral Science Coursework
 ##### Thinking, Judgment, and Decision-Making Honors Seminar
@@ -41,7 +41,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ##### Research Design and Analysis
 ##### Developmental Psychology
 ##### Cognitive Science
-
+<br>
 
 ### Math and Statistics Coursework
 #### Real Analysis
@@ -49,12 +49,12 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 #### Multivariate Calculus
 #### Linear Algebra
 #### Statistical Methods
-
+<br>
 
 ### Computer Science Coursework
 ##### Data Structures and Algorithms
 ##### Computer Systems
-
+<br>
 
 ### About Me
 
