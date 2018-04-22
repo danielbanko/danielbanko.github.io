@@ -28,22 +28,23 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ### Coursework
 
 #### Economics
-- Behavioral Economics Seminar
-- Advanced Microeconomics Seminar
-- Public Economics Seminar
-- Intermediate Macroeconomics
+- Behavioral Economics Honors Seminar
+- Advanced Microeconomics Honors Seminar
+- Public Economics Honors Seminar
 - Econometrics
+- Intermediate Macroeconomics
 
 #### Psychology/Behavioral Science
-- Thinking, Judgment, and Decision-Making Seminar
+- Thinking, Judgment, and Decision-Making Honors Seminar
 - Behavioral Science and Public Policy
 - Research Design and Analysis
+- Developmental Psychology
 - Cognitive Science
 
 #### Math and Statistics
 - Real Analysis
 - Differential Equations
-- Multivariable Calculus
+- Multivariate Calculus
 - Linear Algebra
 - Statistical Methods
 
