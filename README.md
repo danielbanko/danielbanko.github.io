@@ -15,48 +15,41 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 - ITS Team Leader at Swarthmore College
 
 ### Skills
+#### Stata
+#### Large dataset analysis/cleaning
+#### Web development (HTML, CSS, Javascript)
+#### Git
+#### Python
+#### C/C++
+#### Implementing lab and field experiments
+#### MATLAB
+#### LaTeX
+#### Excel/PowerPoint
 
-- Stata
-- Large dataset analysis/cleaning
-- Web development (HTML, CSS, Javascript)
-- Git
-- Python
-- C/C++
-- Implementing lab and field experiments
-- MATLAB
-- LaTeX
-- Excel/PowerPoint
+### Economics Coursework
+#### Behavioral Economics Honors Seminar
+#### Advanced Microeconomics Honors Seminar
+#### Public Economics Honors Seminar
+#### Econometrics
+#### Intermediate Macroeconomics
 
-### Coursework
+### Psychology and Behavioral Science Coursework
+#### Thinking, Judgment, and Decision-Making Honors Seminar
+#### Behavioral Science and Public Policy
+#### Research Design and Analysis
+#### Developmental Psychology
+#### Cognitive Science
 
-#### Economics
+### Math and Statistics Coursework
+#### Real Analysis
+#### Differential Equations
+#### Multivariate Calculus
+#### Linear Algebra
+#### Statistical Methods
 
-- Behavioral Economics Honors Seminar
-- Advanced Microeconomics Honors Seminar
-- Public Economics Honors Seminar
-- Econometrics
-- Intermediate Macroeconomics
-
-#### Psychology and Behavioral Science
-
-* Thinking, Judgment, and Decision-Making Honors Seminar
-* Behavioral Science and Public Policy
-* Research Design and Analysis
-* Developmental Psychology
-* Cognitive Science
-
-#### Math and Statistics
-
-- Real Analysis
-- Differential Equations
-- Multivariate Calculus
-- Linear Algebra
-- Statistical Methods
-
-#### Computer Science
-
-- Data Structures and Algorithms
-- Computer Systems
+### Computer Science Coursework
+#### Data Structures and Algorithms
+#### Computer Systems
 
 ### About Me
 
