@@ -44,11 +44,11 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 <br>
 
 ### Math and Statistics Coursework
-#### Real Analysis
-#### Differential Equations
-#### Multivariate Calculus
-#### Linear Algebra
-#### Statistical Methods
+##### Real Analysis
+##### Differential Equations
+##### Multivariate Calculus
+##### Linear Algebra
+##### Statistical Methods
 <br>
 
 ### Computer Science Coursework
