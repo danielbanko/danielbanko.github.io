@@ -5,59 +5,60 @@ I am a recent graduate of Swarthmore College with an [Honors degree](https://www
 
 
 ### Work Experience
-- Research Assistant, CFPB (June 2017-Present)
-- Research Assistant, Swarthmore College (June 2015-May 2017)
-- Research Assistant, Yale University's [Applied Cooperation Team](https://act.yale.edu/people) (June - August 2016)
-- Resident Assistant, Swarthmore College (August 2015 - May 2017)
-- Microeconomics Teacher's Assistant, Swarthmore College (September 2015 - May 2017)
-- ITS Student Associate and Team Leader, Swarthmore College (June 2014 - May 2017)
+- Research Assistant at CFPB
+- Research Assistant at Swarthmore College 
+- Research Assistant at Yale University's [Applied Cooperation Team](https://act.yale.edu/people)
+- Resident Assistant at Swarthmore College
+- Microeconomics Teacher's Assistant at Swarthmore College
+- ITS Team Leader at Swarthmore College
 
 ### Skills
 - Stata
 - Large dataset analysis/cleaning
 - Web development (HTML, CSS, Javascript)
-- Markdown
 - Git
 - R
-- MatLab
-- LaTeX
+- SQL
 - Python
+- C/C++
 - Implementing lab and field experiments
+- MATLAB
+- LaTeX
+- Excel/PowerPoint
+- SPSS
 
-### Coursework (and programs/languages used)
+### Coursework
 
 #### Economics
 - Behavioral Economics Seminar
-- Advanced Microeconomics Seminar (LaTeX)
+- Advanced Microeconomics Seminar
 - Public Economics Seminar
 - Intermediate Macroeconomics
-- Econometrics (Stata)
+- Econometrics
 
 #### Psychology/Behavioral Science
 - Thinking, Judgment, and Decision-Making Seminar
 - Behavioral Science and Public Policy
-- Research Design and Analysis (SPSS)
+- Research Design and Analysis
 - Cognitive Science
 
 #### Math and Statistics
 - Real Analysis
-- Differential Equations (MATLAB)
+- Differential Equations
 - Multivariable Calculus
 - Linear Algebra
 - Statistical Methods
 
 #### Computer Science
-- Data Structures and Algorithms (C++)
-- Computer Systems (C)
-
+- Data Structures and Algorithms
+- Computer Systems
 
 ### About Me
-Feel free to download my [CV](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and follow my [GitHub page](https://github.com/danielbanko) if you want to keep up with my latest coding projects. I also have a [personal blog](https://danielbanko.wordpress.com/).
+Feel free to download my [CV](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and follow my [GitHub page](https://github.com/danielbanko).
 
-I enjoy volunteering as a math tutor at a local youth center and singing bass in the [National Cathedral](https://cathedral.org/). 
+I enjoy volunteering as a math tutor at a local youth center in DC and singing bass in the [National Cathedral](http://www.cathedralchoralsociety.org/chorus). 
 
-
-For any inquiries, please email <a href="mailto:daniel.bankoferran@gmail.com?" target="_top">daniel.bankoferran@gmail.com</a> or send me a private message on [Linkedin](https://www.linkedin.com/in/daniel-banko/). Thank you.
+For any inquiries, please email <a href="mailto:daniel.bankoferran@gmail.com?" target="_top">daniel.bankoferran@gmail.com</a>. Thank you.
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
