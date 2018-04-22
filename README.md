@@ -34,7 +34,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 - Econometrics
 - Intermediate Macroeconomics
 
-#### Psychology/Behavioral Science
+#### Psychology and Behavioral Science
 - Thinking, Judgment, and Decision-Making Honors Seminar
 - Behavioral Science and Public Policy
 - Research Design and Analysis
