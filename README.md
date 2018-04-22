@@ -1,10 +1,8 @@
 
 
 ## Welcome
-I am a recent graduate of Swarthmore College with an [Honors degree](https://www.swarthmore.edu/honors-program) in Economics and Psychology. I am currently  working as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC.
+I am a recent graduate of Swarthmore College with an [Honors degree](https://www.swarthmore.edu/honors-program) in Economics and Psychology. I am currently  working as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I am interested in the cross-section of Economics and Psychology specializing in consumer behavior, judgment, and decision-making. I plan to attend graduate school to earn a PhD in economics after my employment ends at the CFPB.
 
-### Research Interests
-I am interested in the cross-section of Economics and Psychology specializing in consumer behavior, judgment, and decision-making. I plan to attend graduate school to earn a PhD in economics after my employment ends at the CFPB.
 
 ### Work Experience
 - Research Assistant, CFPB (June 2017-Present)
