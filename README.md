@@ -18,15 +18,12 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 - Large dataset analysis/cleaning
 - Web development (HTML, CSS, Javascript)
 - Git
-- R
-- SQL
 - Python
 - C/C++
 - Implementing lab and field experiments
 - MATLAB
 - LaTeX
 - Excel/PowerPoint
-- SPSS
 
 ### Coursework
 
