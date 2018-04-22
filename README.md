@@ -6,13 +6,13 @@
 I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College with an [Honors degree](https://www.swarthmore.edu/honors-program) in Economics and Psychology in May 2017.  I am interested in behavioral finance and consumer well-being  research and plan to attend graduate school to earn a PhD in economics.
 
 ### Work Experience
+##### Research Assistant at CFPB
+##### Research Assistant at Swarthmore College 
+##### Research Assistant at Yale University's [Applied Cooperation Team](https://act.yale.edu/people)
+##### Resident Adviser at Swarthmore College
+##### Microeconomics Teacher's Assistant at Swarthmore College
+##### ITS Team Leader at Swarthmore College
 
-- Research Assistant at CFPB
-- Research Assistant at Swarthmore College 
-- Research Assistant at Yale University's [Applied Cooperation Team](https://act.yale.edu/people)
-- Resident Adviser at Swarthmore College
-- Microeconomics Teacher's Assistant at Swarthmore College
-- ITS Team Leader at Swarthmore College
 
 ### Skills
 #### Stata
@@ -26,12 +26,14 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 #### LaTeX
 #### Excel/PowerPoint
 
+
 ### Economics Coursework
 #### Behavioral Economics Honors Seminar
 #### Advanced Microeconomics Honors Seminar
 #### Public Economics Honors Seminar
 #### Econometrics
 #### Intermediate Macroeconomics
+
 
 ### Psychology and Behavioral Science Coursework
 #### Thinking, Judgment, and Decision-Making Honors Seminar
@@ -40,6 +42,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 #### Developmental Psychology
 #### Cognitive Science
 
+
 ### Math and Statistics Coursework
 #### Real Analysis
 #### Differential Equations
@@ -47,9 +50,11 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 #### Linear Algebra
 #### Statistical Methods
 
+
 ### Computer Science Coursework
 #### Data Structures and Algorithms
 #### Computer Systems
+
 
 ### About Me
 
