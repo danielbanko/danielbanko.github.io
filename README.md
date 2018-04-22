@@ -15,32 +15,32 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 
 
 ### Skills
-#### Stata
-#### Large dataset analysis/cleaning
-#### Web development (HTML, CSS, Javascript)
-#### Git
-#### Python
-#### C/C++
-#### Implementing lab and field experiments
-#### MATLAB
-#### LaTeX
-#### Excel/PowerPoint
-
+##### Stata
+##### Large dataset analysis/cleaning
+##### Web development (HTML, CSS, Javascript)
+##### Git
+##### Python
+##### C/C++
+##### Implementing lab and field experiments
+##### MATLAB
+##### LaTeX
+##### Excel/PowerPoint
+<br>
 
 ### Economics Coursework
-#### Behavioral Economics Honors Seminar
-#### Advanced Microeconomics Honors Seminar
-#### Public Economics Honors Seminar
-#### Econometrics
-#### Intermediate Macroeconomics
+##### Behavioral Economics Honors Seminar
+##### Advanced Microeconomics Honors Seminar
+##### Public Economics Honors Seminar
+##### Econometrics
+##### Intermediate Macroeconomics
 
 
 ### Psychology and Behavioral Science Coursework
-#### Thinking, Judgment, and Decision-Making Honors Seminar
-#### Behavioral Science and Public Policy
-#### Research Design and Analysis
-#### Developmental Psychology
-#### Cognitive Science
+##### Thinking, Judgment, and Decision-Making Honors Seminar
+##### Behavioral Science and Public Policy
+##### Research Design and Analysis
+##### Developmental Psychology
+##### Cognitive Science
 
 
 ### Math and Statistics Coursework
@@ -52,8 +52,8 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 
 
 ### Computer Science Coursework
-#### Data Structures and Algorithms
-#### Computer Systems
+##### Data Structures and Algorithms
+##### Computer Systems
 
 
 ### About Me
