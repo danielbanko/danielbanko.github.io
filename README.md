@@ -2,6 +2,7 @@
 I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College with an [Honors degree](https://www.swarthmore.edu/honors-program) in Economics and Psychology in May 2017.  I am interested in behavioral finance and consumer well-being  research and plan to attend graduate school to earn a PhD in economics.
 
 ### Work Experience
+
 - Research Assistant at CFPB
 - Research Assistant at Swarthmore College 
 - Research Assistant at Yale University's [Applied Cooperation Team](https://act.yale.edu/people)
@@ -10,6 +11,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 - ITS Team Leader at Swarthmore College
 
 ### Skills
+
 - Stata
 - Large dataset analysis/cleaning
 - Web development (HTML, CSS, Javascript)
@@ -24,6 +26,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ### Coursework
 
 #### Economics
+
 - Behavioral Economics Honors Seminar
 - Advanced Microeconomics Honors Seminar
 - Public Economics Honors Seminar
@@ -31,6 +34,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 - Intermediate Macroeconomics
 
 #### Psychology and Behavioral Science
+
 - Thinking, Judgment, and Decision-Making Honors Seminar
 - Behavioral Science and Public Policy
 - Research Design and Analysis
@@ -38,6 +42,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 - Cognitive Science
 
 #### Math and Statistics
+
 - Real Analysis
 - Differential Equations
 - Multivariate Calculus
@@ -45,10 +50,12 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 - Statistical Methods
 
 #### Computer Science
+
 - Data Structures and Algorithms
 - Computer Systems
 
 ### About Me
+
 I enjoy volunteering as a math tutor at a local youth center in DC and singing bass in the [National Cathedral](http://www.cathedralchoralsociety.org/chorus). 
 
 Feel free to download my [CV](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and follow my [GitHub page](https://github.com/danielbanko).
