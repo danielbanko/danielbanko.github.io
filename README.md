@@ -57,7 +57,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ##### Computer Systems
 <br>
 
-### About Me
+## More About Me
 
 I enjoy volunteering as a math tutor at a local youth center in DC and singing bass in the [National Cathedral Choral Society](http://www.cathedralchoralsociety.org/chorus). 
 
@@ -67,4 +67,4 @@ For any inquiries, please email <a href="mailto:daniel.bankoferran@gmail.com?" t
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="daniel-banko-ferran-4584b951"><a class="LI-simple-link" href='https://www.linkedin.com/in/daniel-banko-ferran-4584b951?trk=profile-badge'>Daniel Banko-Ferran</a></div>
+<div class="LI-profile-badge" style="float:center;" data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="daniel-banko-ferran-4584b951"><a class="LI-simple-link" href='https://www.linkedin.com/in/daniel-banko-ferran-4584b951?trk=profile-badge'>Daniel Banko-Ferran</a></div>
