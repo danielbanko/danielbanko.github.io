@@ -17,13 +17,13 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 
 ### Skills
 ##### Stata
-##### Large dataset analysis and cleaning
+##### Dataset analysis and cleaning
 ##### Web development (HTML, CSS, Javascript)
-##### Git
 ##### Python
 ##### C/C++
 ##### Implementing lab and field experiments
 ##### MATLAB
+##### Git
 ##### LaTeX
 ##### Excel/PowerPoint
 <br>
