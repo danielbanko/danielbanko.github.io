@@ -15,17 +15,18 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ##### Microeconomics Teacher's Assistant at Swarthmore College
 <br>
 
-### Skills
+## Skills
 ##### Dataset analysis and cleaning
 ##### Stata
 ##### Python
 ##### C/C++
 ##### MATLAB
+##### Markdown
 ##### Web development and design (HTML, CSS, Javascript)
 ##### Implementing lab and field experiments
 <br>
 
-### Economics Coursework
+## Economics Coursework
 ##### Behavioral Economics Honors Seminar
 ##### Advanced Microeconomics Honors Seminar
 ##### Public Economics Honors Seminar
@@ -33,7 +34,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ##### Intermediate Macroeconomics
 <br>
 
-### Psychology and Behavioral Science Coursework
+## Psychology and Behavioral Science Coursework
 ##### Thinking, Judgment, and Decision-Making Honors Seminar
 ##### Behavioral Science and Public Policy
 ##### Research Design and Analysis
@@ -41,7 +42,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ##### Developmental Psychology
 <br>
 
-### Math and Statistics Coursework
+## Math and Statistics Coursework
 ##### Real Analysis
 ##### Differential Equations
 ##### Multivariate Calculus
@@ -49,7 +50,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ##### Statistical Methods
 <br>
 
-### Computer Science Coursework
+## Computer Science Coursework
 ##### Data Structures and Algorithms
 ##### Computer Systems
 <br>
