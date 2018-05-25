@@ -3,33 +3,30 @@
 </p>
 
 ## Welcome
-I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College [with honors](https://www.swarthmore.edu/honors-program) in Economics and Psychology in May 2017. I am interested in behavioral finance and financial well-being research and plan to attend graduate school to earn a PhD in economics.
+I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College [with honors](https://www.swarthmore.edu/honors-program) in Economics and Psychology in May 2017. I am interested in behavioral finance and financial well-being research and plan to attend graduate school to earn a PhD in economics. I want to apply my research to help people take control over their finances.
 
 <br>
 
-### Work Experience
+### Professional Experience
 ##### Research Assistant at CFPB
 ##### Research Assistant at Swarthmore College 
 ##### Research Assistant at Yale University's [Applied Cooperation Team](https://act.yale.edu/people)
 ##### Resident Adviser at Swarthmore College
 ##### Microeconomics Teacher's Assistant at Swarthmore College
-##### ITS Team Leader at Swarthmore College
 <br>
 
 ### Skills
-##### Stata
 ##### Dataset analysis and cleaning
-##### Web development (HTML, CSS, Javascript)
+##### Stata
 ##### Python
 ##### C/C++
+##### Web development and design (HTML, CSS, Javascript)
 ##### Implementing lab and field experiments
 ##### MATLAB
-##### Git
-##### LaTeX
-##### Excel/PowerPoint
+##### Excel
 <br>
 
-### Economics Courses
+### Economics Coursework
 ##### Behavioral Economics Honors Seminar
 ##### Advanced Microeconomics Honors Seminar
 ##### Public Economics Honors Seminar
@@ -37,15 +34,15 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ##### Intermediate Macroeconomics
 <br>
 
-### Psychology and Behavioral Science Courses
+### Behavioral Science Coursework
 ##### Thinking, Judgment, and Decision-Making Honors Seminar
 ##### Behavioral Science and Public Policy
 ##### Research Design and Analysis
-##### Developmental Psychology
 ##### Cognitive Science
+##### Developmental Psychology
 <br>
 
-### Math and Statistics Courses
+### Math and Statistics Coursework
 ##### Real Analysis
 ##### Differential Equations
 ##### Multivariate Calculus
@@ -62,7 +59,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 
 I enjoy volunteering as a math tutor at a local youth center in DC and singing bass in the [National Cathedral Choral Society](http://www.cathedralchoralsociety.org/chorus). 
 
-Feel free to download my [CV](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and follow my [GitHub page](https://github.com/danielbanko).
+Feel free to download my [CV](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and follow my [GitHub page](https://github.com/danielbanko) to keep up with my coding projects..
 
 For any inquiries, please email <a href="mailto:daniel.bankoferran@gmail.com?" target="_top">daniel.bankoferran@gmail.com</a>.
 
