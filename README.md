@@ -9,8 +9,8 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 
 ### Professional Experience
 ##### Research Assistant at CFPB
-##### Research Assistant at Swarthmore College 
 ##### Research Assistant at Yale University's [Applied Cooperation Team](https://act.yale.edu/people)
+##### Research Assistant at Swarthmore College 
 ##### Resident Adviser at Swarthmore College
 ##### Microeconomics Teacher's Assistant at Swarthmore College
 <br>
@@ -20,10 +20,9 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ##### Stata
 ##### Python
 ##### C/C++
+##### MATLAB
 ##### Web development and design (HTML, CSS, Javascript)
 ##### Implementing lab and field experiments
-##### MATLAB
-##### Excel
 <br>
 
 ### Economics Coursework
@@ -34,7 +33,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ##### Intermediate Macroeconomics
 <br>
 
-### Behavioral Science Coursework
+### Psychology and Behavioral Science Coursework
 ##### Thinking, Judgment, and Decision-Making Honors Seminar
 ##### Behavioral Science and Public Policy
 ##### Research Design and Analysis
@@ -50,14 +49,14 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ##### Statistical Methods
 <br>
 
-### Computer Science Courses
+### Computer Science Coursework
 ##### Data Structures and Algorithms
 ##### Computer Systems
 <br>
 
 ## More About Me
 
-I enjoy volunteering as a math tutor at a local youth center in DC and singing bass in the [National Cathedral Choral Society](http://www.cathedralchoralsociety.org/chorus). 
+In my free time I enjoy volunteering as a math tutor at a local youth center in DC and singing bass in the [National Cathedral Choral Society](http://www.cathedralchoralsociety.org/chorus). 
 
 Feel free to download my [CV](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and follow my [GitHub page](https://github.com/danielbanko) to keep up with my coding projects..
 
