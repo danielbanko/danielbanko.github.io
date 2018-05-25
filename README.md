@@ -7,7 +7,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 
 <br>
 
-### Professional Experience
+## Professional Experience
 ##### Research Assistant at CFPB
 ##### Research Assistant at Yale University's [Applied Cooperation Team](https://act.yale.edu/people)
 ##### Research Assistant at Swarthmore College 
@@ -26,7 +26,8 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ##### Implementing lab and field experiments
 <br>
 
-## Economics Coursework
+## Coursework
+### Economics
 ##### Behavioral Economics Honors Seminar
 ##### Advanced Microeconomics Honors Seminar
 ##### Public Economics Honors Seminar
@@ -34,7 +35,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ##### Intermediate Macroeconomics
 <br>
 
-## Psychology and Behavioral Science Coursework
+### Psychology and Behavioral Science
 ##### Thinking, Judgment, and Decision-Making Honors Seminar
 ##### Behavioral Science and Public Policy
 ##### Research Design and Analysis
@@ -42,7 +43,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ##### Developmental Psychology
 <br>
 
-## Math and Statistics Coursework
+### Math and Statistics
 ##### Real Analysis
 ##### Differential Equations
 ##### Multivariate Calculus
@@ -50,7 +51,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 ##### Statistical Methods
 <br>
 
-## Computer Science Coursework
+### Computer Science
 ##### Data Structures and Algorithms
 ##### Computer Systems
 <br>
