@@ -28,15 +28,15 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 
 ## Coursework
 ### Economics
-##### Behavioral Economics Honors Seminar
-##### Advanced Microeconomics Honors Seminar
-##### Public Economics Honors Seminar
+##### Behavioral Economics
+##### Advanced Microeconomics
+##### Public Economics
 ##### Econometrics
 ##### Intermediate Macroeconomics
 <br>
 
 ### Psychology and Behavioral Science
-##### Thinking, Judgment, and Decision-Making Honors Seminar
+##### Thinking, Judgment, and Decision-Making
 ##### Behavioral Science and Public Policy
 ##### Research Design and Analysis
 ##### Cognitive Science
@@ -58,7 +58,7 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 
 ## More About Me
 
-In my free time I enjoy volunteering as a math tutor at a [local youth center](https://www.northstartutoring.org/) in DC and singing bass in the [National Cathedral Choral Society](http://www.cathedralchoralsociety.org/chorus). 
+In my free time I enjoy volunteering as a math tutor at a [youth center](https://www.northstartutoring.org/) in DC and singing bass in the [National Cathedral Choral Society](http://www.cathedralchoralsociety.org/chorus). 
 
 Click here to view and download my [CV](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and follow my [GitHub page](https://github.com/danielbanko) to keep up with my latest coding projects.
 
