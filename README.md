@@ -37,8 +37,8 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 
 ### Psychology and Behavioral Science
 ##### Thinking, Judgment, and Decision-Making
-##### Behavioral Science and Public Policy
 ##### Research Design and Analysis
+##### Behavioral Science and Public Policy
 ##### Cognitive Science
 ##### Developmental Psychology
 <br>
