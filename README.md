@@ -67,7 +67,7 @@ This is part of a series of quarterly reports of consumer credit trends produced
 
 Recently moved to Pittsburgh, I sing bass in the [Mendelssohn Choir](https://www.themendelssohn.org/). My [profile](https://www.themendelssohn.org/about/meet-the-singers/) was recently featured on the choir's website.
 
-While living n DC, I enjoyed volunteering as a math tutor at a [youth center](https://www.northstartutoring.org/) and singing bass in the [National Cathedral Choral Society](http://www.cathedralchoralsociety.org/chorus). 
+While living in DC, I enjoyed volunteering as a math tutor at a [youth center](https://www.northstartutoring.org/) and singing bass in the [National Cathedral Choral Society](http://www.cathedralchoralsociety.org/chorus). 
 
 Click here to view and download my [CV](https://www.dropbox.com/s/a0rruy04juz677g/dbanko_cv.docx?dl=0) and follow my [GitHub page](https://github.com/danielbanko) to keep up with my latest projects.
 
