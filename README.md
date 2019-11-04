@@ -3,27 +3,31 @@
 </p>
 
 ## Welcome
-I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College [with honors](https://www.swarthmore.edu/honors-program) in Economics and Psychology in May 2017. I am interested in behavioral finance and financial well-being research and plan to attend graduate school to earn a PhD in economics. I want to apply my research to help people feel empowered over their financial lives.
+I am currently a first year doctoral student in the [Department of Economics](https://www.econ.pitt.edu/) at the [University of Pittsburgh](pitt.edu). Prior to this I worked as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College [with honors](https://www.swarthmore.edu/honors-program) in economics and psychology in May 2017. I am interested in the fields of behavioral economics, experimental economics, and applied microeconomics. I want to teach undergraduates, conduct research in an experimental decision-making lab, and apply my research to helping people feel empowered over their financial lives.
 
 <br>
 
-## Professional Experience
-##### Research Assistant at CFPB
-##### Research Assistant at Yale University's [Applied Cooperation Team](https://act.yale.edu/people)
-##### Research Assistant at Swarthmore College 
-##### Resident Adviser at Swarthmore College
-##### Microeconomics Teacher's Assistant at Swarthmore College
+## Research Experience
+##### Research Assistant at CFPB Summer 2017 - Summer 2019
+##### Research Assistant at Yale University's [Applied Cooperation Team](https://act.yale.edu/people) Summer 2016
+##### Research Assistant at Swarthmore College Fall 2015 - Spring 2017
+
+## Teaching Experience
+##### Economics Senior Capstone Tutor Spring 2017
+##### Teacher's Assistant for Intermediate Microeconomics (ECON011) Fall 2015, Fall 2016
+##### Tutor in Statistical Methods (STAT011) Fall 2014
 <br>
 
 ## Skills
 ##### Dataset analysis and cleaning
 ##### Stata
-##### Python
-##### C/C++
 ##### MATLAB
-##### Markdown
+##### R
+##### Python (oTree)
+##### Programming (C/C++)
 ##### Web development and design (HTML, CSS, Javascript)
 ##### Implementing lab and field experiments
+##### Conversational Spanish speaker
 <br>
 
 ## Coursework
@@ -58,12 +62,14 @@ I work as a [Research Assistant](https://www.consumerfinance.gov/about-us/career
 
 ## More About Me
 
-In my free time I enjoy volunteering as a math tutor at a [youth center](https://www.northstartutoring.org/) in DC and singing bass in the [National Cathedral Choral Society](http://www.cathedralchoralsociety.org/chorus). 
+When I was in DC, in my free time I enjoyed volunteering as a math tutor at a [youth center](https://www.northstartutoring.org/) in DC and singing bass in the [National Cathedral Choral Society](http://www.cathedralchoralsociety.org/chorus). 
 
-Click here to view and download my [CV](https://www.dropbox.com/s/rok02wsilwfyr9w/dbankoResume.docx?dl=0) and follow my [GitHub page](https://github.com/danielbanko) to keep up with my latest coding projects.
+Recently moved to Pittsburgh, I now sing bass in the [Mendelssohn Choir](https://www.themendelssohn.org/). My [profile](https://www.themendelssohn.org/about/meet-the-singers/) was recently featured on the website.
+
+Click here to view and download my [CV](https://www.dropbox.com/s/a0rruy04juz677g/dbanko_cv.docx?dl=0) and follow my [GitHub page](https://github.com/danielbanko) to keep up with my latest coding projects.
 
 For any inquiries, please email <a href="mailto:daniel.bankoferran@gmail.com?" target="_top">daniel.bankoferran@gmail.com</a>.
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+If you want to connect, add me on Linkedin using the link below or follow me on [Twitter](https://twitter.com/Banjodan2). <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 <div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="daniel-banko-ferran-4584b951"><a class="LI-simple-link" href='https://www.linkedin.com/in/daniel-banko-ferran-4584b951?trk=profile-badge'>Daniel Banko-Ferran</a></div>
