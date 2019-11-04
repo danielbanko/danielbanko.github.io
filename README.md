@@ -7,7 +7,7 @@ I am currently a first year doctoral student in the [Department of Economics](ht
 <br>
 
 ## Publications
-[Banko-Ferran, Daniel, and Judith Ricks. 2018. “Natural Disasters and Credit Reporting.” CFPB Quarterly Consumer Credit Trends 5. ](https://www.consumerfinance.gov/about-us/blog/natural-disaster-assistance-reported-minority-credit-records-among-potentially-affected-consumers/)
+##### [Banko-Ferran, Daniel, and Judith Ricks. 2018. “Natural Disasters and Credit Reporting.” CFPB Quarterly Consumer Credit Trends 5. ](https://www.consumerfinance.gov/about-us/blog/natural-disaster-assistance-reported-minority-credit-records-among-potentially-affected-consumers/)
 This is part of a series of quarterly reports of consumer credit trends produced by the Bureau of Consumer Financial Protection using a longitudinal, nationally representative sample of approximately five million de-identified credit records maintained by one of the three nationwide credit reporting companies. This fifth report explores the reporting of natural disasters in consumer credit records.
 
 ## Research Experience
