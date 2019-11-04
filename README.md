@@ -3,13 +3,13 @@
 </p>
 
 ## Welcome
-I am currently a first year doctoral student in the [Department of Economics](https://www.econ.pitt.edu/) at the [University of Pittsburgh](pitt.edu). Prior to this I worked as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College [with honors](https://www.swarthmore.edu/honors-program) in economics and psychology in May 2017. I am interested in the fields of behavioral economics, experimental economics, and applied microeconomics. I want to teach undergraduates, conduct research in an experimental decision-making lab, and apply my research to helping people feel empowered over their financial lives.
+I am currently a first year doctoral student in the [Department of Economics](https://www.econ.pitt.edu/) at the [University of Pittsburgh](pitt.edu). Prior to this year, I worked as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College [with honors](https://www.swarthmore.edu/honors-program) in economics and psychology in May 2017. I am interested in the fields of behavioral economics, experimental economics, and applied microeconomics. I want to teach undergraduates, conduct research in an experimental decision-making lab, and apply my research to helping people feel empowered over their financial lives.
 
 <br>
 
 ## Research Experience
 ##### Research Assistant at CFPB Summer 2017 - Summer 2019
-##### Research Assistant at Yale University's [Applied Cooperation Team](https://act.yale.edu/people) Summer 2016
+##### Research Assistant at Yale University's [Applied Cooperation Team](https://cooperation.mit.edu/) (Now at MIT) Summer 2016
 ##### Research Assistant at Swarthmore College Fall 2015 - Spring 2017
 
 ## Teaching Experience
