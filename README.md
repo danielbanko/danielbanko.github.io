@@ -3,11 +3,11 @@
 </p>
 
 ## Welcome
-I am currently a first year doctoral student in the [Department of Economics](https://www.econ.pitt.edu/) at the [University of Pittsburgh](pitt.edu). Prior to this year, I worked as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College [with honors](https://www.swarthmore.edu/honors-program) in economics and psychology in May 2017. I am interested in the fields of behavioral economics, experimental economics, and applied microeconomics. I want to teach undergraduates, conduct research in an experimental decision-making lab, and apply my research to helping people feel empowered over their financial lives.
+I am currently a first year doctoral student in the [Department of Economics](https://www.econ.pitt.edu/) at the [University of Pittsburgh](pitt.edu). Prior to this year, I worked as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College [with honors](https://www.swarthmore.edu/honors-program) in economics and psychology in May 2017. I am interested in the fields of behavioral economics, experimental economics, and applied microeconomics. I want to teach undergraduates, conduct research in an experimental decision-making lab, and apply my research to helping people feel empowered over their financial lives.
 <br>
 
 ## Publications
-##### [Banko-Ferran, Daniel, and Judith Ricks. 2018. “Natural Disasters and Credit Reporting.” CFPB Quarterly Consumer Credit Trends 5. ](https://www.consumerfinance.gov/about-us/blog/natural-disaster-assistance-reported-minority-credit-records-among-potentially-affected-consumers/)
+[Banko-Ferran, Daniel, and Judith Ricks. 2018. “Natural Disasters and Credit Reporting.” CFPB Quarterly Consumer Credit Trends 5. ](https://www.consumerfinance.gov/about-us/blog/natural-disaster-assistance-reported-minority-credit-records-among-potentially-affected-consumers/)
 This is part of a series of quarterly reports of consumer credit trends produced by the Bureau of Consumer Financial Protection using a longitudinal, nationally representative sample of approximately five million de-identified credit records maintained by one of the three nationwide credit reporting companies. This fifth report explores the reporting of natural disasters in consumer credit records.
 
 ## Research Experience
