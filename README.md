@@ -8,7 +8,7 @@ I am currently a first year doctoral student in the [Department of Economics](ht
 
 ## Publications
 ##### [Banko-Ferran, Daniel, and Judith Ricks. 2018. “Natural Disasters and Credit Reporting.” CFPB Quarterly Consumer Credit Trends 5. ](https://www.consumerfinance.gov/about-us/blog/natural-disaster-assistance-reported-minority-credit-records-among-potentially-affected-consumers/)
-This is part of a series of quarterly reports of consumer credit trends produced by the Bureau of Consumer Financial Protection using a longitudinal, nationally representative sample of approximately five million de-identified credit records maintained by one of the three nationwide credit reporting companies. This fifth report explores the reporting of natural disasters in consumer credit records.
+This is part of a series of quarterly reports of consumer credit trends produced by the Consumer Financial Protection Bureau using a longitudinal, nationally representative sample of approximately five million de-identified credit records maintained by one of the three nationwide credit reporting companies. This fifth report explores the reporting of natural disasters in consumer credit records.
 <br>
 
 ## Research Experience
@@ -69,12 +69,12 @@ This is part of a series of quarterly reports of consumer credit trends produced
 
 I sing bass in the [Mendelssohn Choir](https://www.themendelssohn.org/). I was recently featured on the choir's [website](https://www.themendelssohn.org/about/meet-the-singers/).
 
-While living in DC, I enjoyed volunteering as a math tutor at a [youth center](https://www.northstartutoring.org/) and singing in the [National Cathedral Choral Society](http://www.cathedralchoralsociety.org/chorus). 
+While living in DC, I volunteered as a math tutor at a [youth center](https://www.northstartutoring.org/) and singing in the [National Cathedral Choral Society](http://www.cathedralchoralsociety.org/chorus). 
 
 Click here to download my [CV](https://www.dropbox.com/s/a0rruy04juz677g/dbanko_cv.docx?dl=0) and follow my [GitHub page](https://github.com/danielbanko) to keep up with my latest projects.
 
 For any inquiries, please email <a href="mailto:daniel.bankoferran@gmail.com?" target="_top">daniel.bankoferran@gmail.com</a>.
 
-If you want to keep in touch, add me on Linkedin or follow me on [Twitter](https://twitter.com/Banjodan2). <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+If you want to keep in touch, add me on Linkedin or follow me on [Twitter](https://twitter.com/danieljbanko). <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 <div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="daniel-banko-ferran-4584b951"><a class="LI-simple-link" href='https://www.linkedin.com/in/daniel-banko-ferran-4584b951?trk=profile-badge'>Daniel Banko-Ferran</a></div>
