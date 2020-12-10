@@ -1,5 +1,5 @@
 <p>
-<img src="https://pbs.twimg.com/profile_images/1271065556918194178/2ZPyMEmj_400x400.jpg" style="float:right;">
+<img src="https://pbs.twimg.com/profile_images/1271065556918194178/2ZPyMEmj_400x400.jpg">
 </p>
 
 ## Welcome
