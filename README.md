@@ -19,6 +19,7 @@ This is part of a series of quarterly reports of consumer credit trends produced
 <br>
 
 ## Teaching Experience
+##### Introduction to Macroeconomics TA, Fall 2020
 ##### Economics Senior Capstone Tutor, Spring 2017
 ##### Teacher's Assistant for Intermediate Microeconomics (ECON011), Fall 2015; Fall 2016
 ##### Tutor in Statistical Methods (STAT011), Fall 2014
