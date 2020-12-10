@@ -3,7 +3,7 @@
 </p>
 
 ## Welcome
-I am currently a second year doctoral student in the [Department of Economics](https://www.econ.pitt.edu/) at the University of Pittsburgh. Prior to this year, I worked as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College [with honors](https://www.swarthmore.edu/honors-program) in economics and psychology in May 2017. I am interested in the fields of behavioral economics, experimental economics, and applied microeconomics. My goal is to conduct research using experiments and survey data, teach, and apply my research to help people feel empowered over their financial lives.
+I am currently a second year doctoral student in the [Department of Economics](https://www.econ.pitt.edu/) at the University of Pittsburgh. Prior to this year, I worked as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College [with honors](https://www.swarthmore.edu/honors-program) in economics and psychology in May 2017. I am interested in the fields of behavioral economics, experimental economics, and applied microeconomics. My goal is to conduct research using experiments and survey data, teach students, and apply my research to help people feel empowered over their lives.
 <br>
 
 ## Publications
@@ -39,11 +39,13 @@ This is part of a series of quarterly reports of consumer credit trends produced
 
 ## Coursework
 ### Economics
+##### Graduate Microeconomic Theory 1 & 2
+##### Graduate Macroeconomic Theory 1 & 2
 ##### Behavioral Economics
-##### Advanced Microeconomics
+##### Experimental Economics
 ##### Public Economics
+##### Urban Economics
 ##### Econometrics
-##### Intermediate Macroeconomics
 <br>
 
 ### Psychology and Behavioral Science
