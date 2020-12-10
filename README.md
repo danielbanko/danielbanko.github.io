@@ -1,9 +1,9 @@
 <p>
-<img src="favicons.ico/android-icon-192x192.png" alt="Headshot of Daniel Banko" style="float:right;">
+<img src="https://twitter.com/danieljbanko/photo" alt="Headshot of Daniel Banko" style="float:right;">
 </p>
 
 ## Welcome
-I am currently a first year doctoral student in the [Department of Economics](https://www.econ.pitt.edu/) at the [University of Pittsburgh](pitt.edu). Prior to this year, I worked as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College [with honors](https://www.swarthmore.edu/honors-program) in economics and psychology in May 2017. I am interested in the fields of behavioral economics, experimental economics, and applied microeconomics. I want to conduct research using experiments and survey data, teach undergraduates, and apply my research to help people feel empowered over their financial lives.
+I am currently a second year doctoral student in the [Department of Economics](https://www.econ.pitt.edu/) at the University of Pittsburgh. Prior to this year, I worked as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College [with honors](https://www.swarthmore.edu/honors-program) in economics and psychology in May 2017. I am interested in the fields of behavioral economics, experimental economics, and applied microeconomics. My goal is to conduct research using experiments and survey data, teach, and apply my research to help people feel empowered over their financial lives.
 <br>
 
 ## Publications
@@ -25,13 +25,13 @@ This is part of a series of quarterly reports of consumer credit trends produced
 
 ## Skills
 ##### Dataset analysis and cleaning
+##### Implementing lab and field experiments
 ##### Stata
 ##### MATLAB
 ##### R
 ##### Python (oTree)
 ##### Programming (C/C++)
 ##### Web development and design (HTML, CSS, Javascript)
-##### Implementing lab and field experiments
 ##### Conversational Spanish speaker
 <br>
 
@@ -69,7 +69,7 @@ This is part of a series of quarterly reports of consumer credit trends produced
 
 I sing bass in the [Mendelssohn Choir](https://www.themendelssohn.org/). I was recently featured on the choir's [website](https://www.themendelssohn.org/about/meet-the-singers/).
 
-While living in DC, I volunteered as a math tutor at a [youth center](https://www.northstartutoring.org/) and sang in the [National Cathedral Choral Society](http://www.cathedralchoralsociety.org/chorus). 
+While living in DC, I volunteered as a math tutor at a [youth center](https://www.northstartutoring.org/) and sang in the [National Cathedral Choral Society](http://www.cathedralchoralsociety.org/chorus). (Fun fact: I sang on a [GRAMMY nominated classical music album!](https://www.grammy.com/grammys/awards/winners-nominees/107))
 
 Click here to download my [CV](https://www.dropbox.com/s/a0rruy04juz677g/dbanko_cv.docx?dl=0) and follow my [GitHub page](https://github.com/danielbanko) to keep up with my latest projects.
 
