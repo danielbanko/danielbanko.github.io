@@ -12,6 +12,7 @@ This is part of a series of quarterly reports of consumer credit trends produced
 <br>
 
 ## Research Experience
+##### Research Assistant for Professor Osea Giuntella, Fall 2020
 ##### Research Assistant at CFPB, Summer 2017 - Summer 2019
 ##### Research Assistant at Yale University's [Applied Cooperation Team](https://cooperation.mit.edu/) (now at MIT), Summer 2016
 ##### Research Assistant at Swarthmore College, Fall 2015 - Spring 2017
