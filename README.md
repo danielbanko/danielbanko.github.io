@@ -3,16 +3,16 @@
 </p>
 
 ## Welcome
-I am currently a second year doctoral student in the [Department of Economics](https://www.econ.pitt.edu/) at the University of Pittsburgh. Prior to this year, I worked as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College [with honors](https://www.swarthmore.edu/honors-program) in economics and psychology in May 2017. I am interested in the fields of behavioral economics, experimental economics, and applied microeconomics. My goal is to conduct research using experiments and survey data, teach students, and apply my research to help people feel empowered over their lives.
+I am currently a second year doctoral student in the [Department of Economics](https://www.econ.pitt.edu/) at the University of Pittsburgh. Prior to this year, I worked as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from Swarthmore College [with honors](https://www.swarthmore.edu/honors-program) in economics and psychology in May 2017. I am interested in the fields of behavioral economics, experimental economics, and applied microeconomics. My goal is to conduct research using experiments and survey data to better understand social motivations, teach students, and apply my research to help people feel empowered over their lives through better informed decisions.
 <br>
 
 ## Publications
 ##### [Banko-Ferran, Daniel, and Judith Ricks. 2018. “Natural Disasters and Credit Reporting.” CFPB Quarterly Consumer Credit Trends 5. ](https://www.consumerfinance.gov/about-us/blog/natural-disaster-assistance-reported-minority-credit-records-among-potentially-affected-consumers/)
-This is part of a series of quarterly reports of consumer credit trends produced by the Consumer Financial Protection Bureau using a longitudinal, nationally representative sample of approximately five million de-identified credit records maintained by one of the three nationwide credit reporting companies. This fifth report explores the reporting of natural disasters in consumer credit records.
+This is part of a series of quarterly reports of consumer credit trends produced by the Consumer Financial Protection Bureau using a longitudinal, nationally representative sample of approximately five million de-identified credit records maintained by one of the three nationwide credit reporting companies. This report explores the reporting of natural disasters in consumer credit records.
 <br>
 
 ## Research Experience
-##### Research Assistant for Professor Osea Giuntella, Fall 2020
+##### Research Assistant for Professor Osea Giuntella, Fall 2020 - Present
 ##### Research Assistant at CFPB, Summer 2017 - Summer 2019
 ##### Research Assistant at Yale University's [Applied Cooperation Team](https://cooperation.mit.edu/) (now at MIT), Summer 2016
 ##### Research Assistant at Swarthmore College, Fall 2015 - Spring 2017
@@ -71,11 +71,9 @@ This is part of a series of quarterly reports of consumer credit trends produced
 
 ## More About Me
 
-I sing bass in the [Mendelssohn Choir](https://www.themendelssohn.org/). I was recently featured on the choir's [website](https://www.themendelssohn.org/about/meet-the-singers/).
+While living in DC, I volunteered as a math tutor at a [youth center](https://www.northstartutoring.org/) and sang in the choir at the [National Cathedral](http://www.cathedralchoralsociety.org/chorus). An album we recorded was recently nominated for a [GRAMMY for Best Choral Performance!](https://www.grammy.com/grammys/awards/winners-nominees/107))
 
-While living in DC, I volunteered as a math tutor at a [youth center](https://www.northstartutoring.org/) and sang in the [National Cathedral Choral Society](http://www.cathedralchoralsociety.org/chorus). (Fun fact: I sang on a [GRAMMY nominated classical music album!](https://www.grammy.com/grammys/awards/winners-nominees/107))
-
-Click here to download my [CV](https://www.dropbox.com/s/a0rruy04juz677g/dbanko_cv.docx?dl=0) and follow my [GitHub page](https://github.com/danielbanko) to keep up with my latest projects.
+Click here to download my [CV](https://www.dropbox.com/s/a0rruy04juz677g/dbanko_cv.docx?dl=0) and follow my [GitHub page](https://github.com/danielbanko) to keep up with my latest coding projects.
 
 For any inquiries, please email <a href="mailto:daniel.bankoferran@gmail.com?" target="_top">daniel.bankoferran@gmail.com</a>.
 
