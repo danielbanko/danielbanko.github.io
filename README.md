@@ -14,38 +14,36 @@ This is part of a series of quarterly reports of consumer credit trends produced
 ## Research Experience
 ##### Research Assistant for Professor Osea Giuntella, Fall 2020 - Present
 ##### Research Assistant at CFPB, Summer 2017 - Summer 2019
-##### Research Assistant at Yale University's [Applied Cooperation Team](https://cooperation.mit.edu/) (now at MIT), Summer 2016
+##### Research Assistant at MIT's [Applied Cooperation Team](https://cooperation.mit.edu/), Summer 2016
 ##### Research Assistant at Swarthmore College, Fall 2015 - Spring 2017
 <br>
 
 ## Teaching Experience
-##### Introduction to Macroeconomics TA, Fall 2020
+##### Introduction to Macroeconomics TA, Fall 2020 - Present
+##### First-Year Graduate Peer Mentor, Fall 2020 - Present
 ##### Economics Senior Capstone Tutor, Spring 2017
 ##### Teacher's Assistant for Intermediate Microeconomics (ECON011), Fall 2015; Fall 2016
 ##### Tutor in Statistical Methods (STAT011), Fall 2014
 <br>
 
 ## Skills
-##### Dataset analysis and cleaning
-##### Implementing lab and field experiments
-##### Stata
-##### MATLAB
-##### R
-##### Python (oTree)
-##### Programming (C/C++)
+##### Dataset analysis and cleaning (Stata, MATLAB, R)
+##### Implementing surveys, lab experiments, and field experiments (oTree, Qualtrics)
+##### Programming (Python, C/C++)
 ##### Web development and design (HTML, CSS, Javascript)
-##### Conversational Spanish speaker
+##### Spanish speaker (Conversational)
 <br>
 
 ## Coursework
 ### Economics
 ##### Graduate Microeconomic Theory 1 & 2
 ##### Graduate Macroeconomic Theory 1 & 2
+##### Graduate Econometric Theory 1 & 2
 ##### Behavioral Economics
 ##### Experimental Economics
 ##### Public Economics
 ##### Urban Economics
-##### Econometrics
+##### Labor Economics
 <br>
 
 ### Psychology and Behavioral Science
@@ -71,10 +69,10 @@ This is part of a series of quarterly reports of consumer credit trends produced
 
 ## More About Me
 
-While living in DC, I volunteered as a math tutor at a [youth center](https://www.northstartutoring.org/) and sang in the choir at the [National Cathedral](http://www.cathedralchoralsociety.org/chorus). An album we recorded was recently nominated for a [GRAMMY for Best Choral Performance!](https://www.grammy.com/grammys/awards/winners-nominees/107))
-
-In my free time, I sing bass in the [Mendelssohn Choir](https://www.themendelssohn.org/) with the Pittsburgh Symphony Orchestra. I also enjoy long-distance running, building and upgrading my computer, and reading about science, technology, and business.
 Click here to download my [CV](https://www.dropbox.com/s/a0rruy04juz677g/dbanko_cv.docx?dl=0) and follow my [GitHub page](https://github.com/danielbanko) to keep up with my latest coding projects.
+
+In my free time, I sing bass in the [Mendelssohn Choir](https://www.themendelssohn.org/) with the Pittsburgh Symphony Orchestra. I also enjoy long-distance running, building my computer, and reading about science, technology, and business.
+While living in DC, I volunteered as a math tutor at a [local youth center](https://www.northstartutoring.org/) and sang in the choir of the [National Cathedral](http://www.cathedralchoralsociety.org/chorus). An album I was recently was recently nominated for a [GRAMMY for Best Choral Performance!](https://www.grammy.com/grammys/awards/winners-nominees/107))
 
 For any inquiries, please email <a href="mailto:daniel.bankoferran@gmail.com?" target="_top">daniel.bankoferran@gmail.com</a>.
 
