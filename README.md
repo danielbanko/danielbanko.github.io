@@ -1,7 +1,7 @@
 <center>
 <div>
 <p>
-<img src="https://pbs.twimg.com/profile_images/1271065556918194178/2ZPyMEmj_400x400.jpg" width="100px" height = "100px">
+<img src="https://pbs.twimg.com/profile_images/1271065556918194178/2ZPyMEmj_400x400.jpg" width="300px" height = "300px">
 </p>
 </div>
   </center>
