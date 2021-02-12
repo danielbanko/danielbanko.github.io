@@ -72,7 +72,7 @@ This is part of a series of quarterly reports of consumer credit trends produced
 
 ## More About Me
 
-Click here to download my [CV](https://www.dropbox.com/s/a0rruy04juz677g/dbanko_cv.docx?dl=0) and follow my [GitHub page](https://github.com/danielbanko) to keep up with my latest coding projects.
+[Click here to download my CV](https://www.dropbox.com/s/a0rruy04juz677g/dbanko_cv.docx?dl=0) and follow my [GitHub page](https://github.com/danielbanko) to keep up with my latest coding projects.
 
 In my free time, I sing bass in the [Mendelssohn Choir](https://www.themendelssohn.org/) with the Pittsburgh Symphony Orchestra. I also enjoy long-distance running, building computers, and reading about science, technology, and business.
 While living in DC, I volunteered as a math tutor at a [local youth center](https://www.northstartutoring.org/) and sang in the choir of the [National Cathedral](http://www.cathedralchoralsociety.org/chorus). An album I was recently was recently nominated for a [GRAMMY for Best Choral Performance!](https://www.grammy.com/grammys/awards/winners-nominees/107))
