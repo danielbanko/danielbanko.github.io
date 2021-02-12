@@ -6,7 +6,7 @@
 </div>
   </center>
 ## Welcome
-I am currently a second year doctoral student in the [Department of Economics](https://www.econ.pitt.edu/) at the University of Pittsburgh. Prior to this year, I worked as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from [Swarthmore College](https://www.swarthmore.edu) [with honors in economics and psychology](https://www.swarthmore.edu/honors-program) in May 2017. I am interested in the fields of behavioral economics, experimental economics, and applied microeconomics topics including labor, health, and household finance. My goals are to conduct research using lab/field experiments and survey data to better understand social motivations and decision-making, teach students, and apply my research to helping people become empowered over their lives.
+I am currently a second year doctoral student in the [Department of Economics at the University of Pittsburgh](https://www.econ.pitt.edu/). Prior to this, I worked as a [Research Assistant](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/) at the [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/about-us/the-bureau/bureau-structure/research-markets-regulation/) in Washington DC. I graduated from [Swarthmore College](https://www.swarthmore.edu) [with honors in economics and psychology](https://www.swarthmore.edu/honors-program) in May 2017. I am interested in the fields of behavioral economics, experimental economics, and applied microeconomics topics including labor, health, and household finance.
 <br>
 
 ## Publications
@@ -15,7 +15,7 @@ This is part of a series of quarterly reports of consumer credit trends produced
 <br>
 
 ## Research Experience
-##### Research Assistant for Professor Osea Giuntella, Fall 2020 - Present
+##### Research Assistant for Osea Giuntella, Fall 2020 - Present
 ##### Research Assistant at CFPB, Summer 2017 - Summer 2019
 ##### Research Assistant at MIT's [Applied Cooperation Team](https://cooperation.mit.edu/), Summer 2016
 ##### Research Assistant at Swarthmore College, Fall 2015 - Spring 2017
