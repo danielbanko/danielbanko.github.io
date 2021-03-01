@@ -74,11 +74,11 @@ This is part of a series of quarterly reports of consumer credit trends produced
 
 [Click here to download my CV](https://drive.google.com/file/d/1d0W3vWK8gxjpWKQGzYk_hnamWIeQUoht/view) and follow my [GitHub page](https://github.com/danielbanko) to keep up with my latest coding projects.
 
-In my free time, I sing bass in the [Mendelssohn Choir](https://www.themendelssohn.org/) with the Pittsburgh Symphony Orchestra. I also enjoy long-distance running, building computers, and reading about science, technology, and business.
-While living in DC, I volunteered as a math tutor at a [local youth center](https://www.northstartutoring.org/) and sang in the choir of the [National Cathedral](http://www.cathedralchoralsociety.org/chorus). An album we recorded was recently nominated for a [GRAMMY for Best Choral Performance!](https://www.grammy.com/grammys/awards/winners-nominees/107)
+In my free time, I sing bass in the [Mendelssohn Choir](https://www.themendelssohn.org/) with the Pittsburgh Symphony Orchestra. I also enjoy long-distance running, building computers, and learning about all things science, technology, and business.
+While living in DC, I volunteered as a math tutor at a [local youth center](https://www.northstartutoring.org/) and sang in the choir of the [National Cathedral](http://www.cathedralchoralsociety.org/chorus). An album we recorded as a choir was recently nominated for a [2020 GRAMMY for Best Choral Performance!](https://www.grammy.com/grammys/awards/winners-nominees/107)
 
 For any inquiries, please email <a href="mailto:daniel.bankoferran@gmail.com?" target="_top">daniel.bankoferran@gmail.com</a>.
 
-If you want to keep in touch, add me on Linkedin or follow me on [Twitter](https://twitter.com/danieljbanko). <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+If you want to keep in touch with me, add me on Linkedin or follow me on [Twitter](https://twitter.com/danieljbanko). <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 <div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="daniel-banko-ferran-4584b951"><a class="LI-simple-link" href='https://www.linkedin.com/in/daniel-banko-ferran-4584b951?trk=profile-badge'>Daniel Banko-Ferran</a></div>
